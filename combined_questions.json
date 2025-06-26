@@ -1,0 +1,4814 @@
+[
+  {
+    "id": "Q1",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "duty",
+      "action",
+      "कर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the core message of Karma Yoga in the Bhagavad Gita?",
+    "question_hi": "भगवद गीता में कर्म योग का मुख्य संदेश क्या है?",
+    "answer_en": "Karma Yoga teaches performing one's duties selflessly without attachment to the outcomes, leading to liberation.",
+    "answer_hi": "कर्म योग सिखाता है कि फल की चिंता किए बिना अपने कर्तव्य को निःस्वार्थ भाव से निभाना मुक्ति का मार्ग है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits of your actions.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q2",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "results",
+      "failure",
+      "फल",
+      "परिणाम"
+    ],
+    "question_en": "If I face failures, does it mean I have bad karma?",
+    "question_hi": "अगर मुझे असफलता मिलती है, तो क्या मेरा कर्म बुरा होता है?",
+    "answer_en": "Failures do not necessarily indicate bad karma; they often emphasize learning and selfless effort.",
+    "answer_hi": "असफलता का मतलब हमेशा बुरा कर्म नहीं होता; यह सीखने और निःस्वार्थ प्रयास का प्रतीक हो सकता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "1",
+        "shlok": "अनाश्रितः कर्मफलं कार्यं कर्म करोति यः।",
+        "meaning_en": "One who performs duty without attachment to results is a true renunciate.",
+        "meaning_hi": "जो बिना फल की आशा के कर्म करता है, वही सच्चा सन्यासी है।"
+      }
+    ]
+  },
+  {
+    "id": "Q3",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "duty",
+      "righteousness",
+      "धर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the importance of following one's Dharma?",
+    "question_hi": "अपने धर्म का पालन क्यों महत्वपूर्ण है?",
+    "answer_en": "Following one's Dharma ensures harmony, personal growth, and societal balance.",
+    "answer_hi": "अपने धर्म का पालन सद्भाव, व्यक्तिगत विकास और सामाजिक संतुलन सुनिश्चित करता है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "35",
+        "shlok": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।",
+        "meaning_en": "It is better to perform one's own Dharma imperfectly than another's perfectly.",
+        "meaning_hi": "अपना धर्म अधूरा करना अन्य का धर्म पूरा करने से बेहतर है।"
+      }
+    ]
+  },
+  {
+    "id": "Q4",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "faith",
+      "भक्ति",
+      "श्रद्धा"
+    ],
+    "question_en": "How does Bhakti Yoga lead to peace?",
+    "question_hi": "भक्ति योग शांति क्यों लाता है?",
+    "answer_en": "Bhakti Yoga cultivates unwavering love and surrender to God, bringing inner peace.",
+    "answer_hi": "भक्ति योग भगवान के प्रति अटूट प्रेम और समर्पण पैदा करता है, जो आंतरिक शांति लाता है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "6-7",
+        "shlok": "ये तु धर्म्यानुपस्थितान्भक्तानामात्म्युपासितान्।",
+        "meaning_en": "Those who worship Me with devotion are dear to Me.",
+        "meaning_hi": "जो भक्तिपूर्वक मेरी उपासना करते हैं, वे मुझको प्रिय हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q5",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "truth",
+      "ज्ञान",
+      "सत्य"
+    ],
+    "question_en": "What role does knowledge play in spiritual awakening?",
+    "question_hi": "आध्यात्मिक जागृति में ज्ञान की क्या भूमिका है?",
+    "answer_en": "Knowledge dispels ignorance, guiding towards truth and liberation.",
+    "answer_hi": "ज्ञान अज्ञानता को दूर करता है, जो सत्य और मुक्ति की ओर मार्गदर्शक है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing as purifying as knowledge.",
+        "meaning_hi": "ज्ञान की तरह शुद्ध करने वाला कुछ भी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q6",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "focus",
+      "ध्यान",
+      "स्मरण"
+    ],
+    "question_en": "How is meditation practiced as detailed in the Gita?",
+    "question_hi": "गीता में ध्यान का अभ्यास कैसे बताया गया है?",
+    "answer_en": "Meditation is steady control of mind and senses, focusing on the Supreme.",
+    "answer_hi": "ध्यान मन और इंद्रियों का स्थिर नियंत्रण है, जो परमात्मा पर केंद्रित होता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "10",
+        "shlok": "योगयुक्तात्मा विमुक्तसङ्गः।",
+        "meaning_en": "One united with yoga is free from attachment.",
+        "meaning_hi": "योगयुक्त आत्मा बिना आसक्ति के होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q7",
+    "category": "self_realization",
+    "keywords": [
+      "self realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the significance of self-realization according to the Gita?",
+    "question_hi": "गीता के अनुसार आत्म-साक्षात्कार का क्या महत्व है?",
+    "answer_en": "Self-realization is recognizing the eternal self beyond the body.",
+    "answer_hi": "आत्म-साक्षात्कार शरीर से परे शाश्वत आत्मा की पहचान है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul neither is born nor dies.",
+        "meaning_hi": "आत्मा न कभी उत्पन्न होता है, न कभी नष्ट।"
+      }
+    ]
+  },
+  {
+    "id": "Q8",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "peace",
+      "समता",
+      "शांति"
+    ],
+    "question_en": "What is equanimity as described in the Gita?",
+    "question_hi": "गीता में समता क्या है?",
+    "answer_en": "Equanimity is steady mind in success and failure or pleasure and pain.",
+    "answer_hi": "समता सफलता-असफलता और सुख-दुख में स्थिर मन है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "48",
+        "shlok": "योगस्थः कुरु कर्माणि संगं त्यक्त्वा धनंजय।",
+        "meaning_en": "Equipped with yoga, perform actions abandoning attachment.",
+        "meaning_hi": "योगयुक्त होकर लगाव त्यागकर कर्म करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q9",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "How important is detachment in spiritual practice?",
+    "question_hi": "आध्यात्मिक अभ्यास में वैराग्य कितना महत्वपूर्ण है?",
+    "answer_en": "Detachment frees the mind, allowing true spiritual progress.",
+    "answer_hi": "वैराग्य मन को मुक्त करता है, जो सच्ची आध्यात्मिक प्रगति को संभव बनाता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "55",
+        "shlok": "अपरामृष्टमपहृतज्ञं स्पृशन्नपि सौम्यं हिमम्।",
+        "meaning_en": "One remains composed and indifferent to surroundings.",
+        "meaning_hi": "व्यक्ति संयमित और आस-पास की वस्तुओं से निर्मित होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "devotion",
+      "faith",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What does surrender mean in the Gita?",
+    "question_hi": "गीता में समर्पण का क्या अर्थ है?",
+    "answer_en": "Complete trust and submission to God for guidance and liberation.",
+    "answer_hi": "भगवान में पूर्ण विश्वास और समर्पण जो मार्गदर्शन और मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and surrender unto Me.",
+        "meaning_hi": "सभी धर्मों को त्यागकर मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q11",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "trust",
+      "श्रद्धा",
+      "विश्वास"
+    ],
+    "question_en": "How does faith affect spiritual growth?",
+    "question_hi": "आध्यात्मिक विकास में श्रद्धा का प्रभाव क्या होता है?",
+    "answer_en": "Faith strengthens resolve and leads to deeper connection with the divine.",
+    "answer_hi": "श्रद्धा धैर्य बढ़ाती है और ईश्वर से गहरे संबंध की ओर ले जाती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith varies according to one’s nature.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q12",
+    "category": "action",
+    "keywords": [
+      "action",
+      "duty",
+      "karma",
+      "कर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "Why is action important in the Bhagavad Gita?",
+    "question_hi": "गीता में कर्म क्यों महत्वपूर्ण हैं?",
+    "answer_en": "Action is necessary for fulfilling one’s duty and progressing spiritually, when done selflessly.",
+    "answer_hi": "कर्म आवश्यक हैं अपने कर्तव्य को पूरा करने और निःस्वार्थ होकर आत्मिक उन्नति करने के लिए।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "19",
+        "shlok": "तस्मादसक्तः सततं कार्यं कर्म समाचर।",
+        "meaning_en": "Perform your duties without attachment.",
+        "meaning_hi": "अपने कर्तव्य बिना लगाव के करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q13",
+    "category": "compassion",
+    "keywords": [
+      "compassion",
+      "kindness",
+      "karuna",
+      "करुणा",
+      "दयालुता"
+    ],
+    "question_en": "How does compassion feature in the Gita?",
+    "question_hi": "गीता में करुणा की क्या भूमिका है?",
+    "answer_en": "Compassion helps transcend ego and promotes selfless service.",
+    "answer_hi": "करुणा अहंकार से ऊपर उठने और निःस्वार्थ सेवा को बढ़ावा देती है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to me.",
+        "meaning_hi": "जो द्वेष से मुक्त और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q14",
+    "category": "virtue",
+    "keywords": [
+      "virtue",
+      "charity",
+      "satya",
+      "सत्य",
+      "धार्मिकता"
+    ],
+    "question_en": "What virtues are prized according to the Gita?",
+    "question_hi": "गीता के अनुसार कौन-कौन से गुण महत्वपूर्ण हैं?",
+    "answer_en": "Truthfulness, charity, self-discipline, and compassion are highly valued.",
+    "answer_hi": "सत्यनिष्ठा, दानशीलता, संयम और करुणा को महत्व दिया गया है।",
+    "shlokas": [
+      {
+        "chapter": "16",
+        "verse": "1-3",
+        "shlok": "असत्यं तमसि विद्धि...",
+        "meaning_en": "Virtues lead away from darkness to light.",
+        "meaning_hi": "गुण अंधकार से प्रकाश की ओर ले जाते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q15",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "satya",
+      "integrity",
+      "सत्य",
+      "निष्ठा"
+    ],
+    "question_en": "How important is truth in the Bhagavad Gita?",
+    "question_hi": "गीता में सत्य की क्या महत्ता है?",
+    "answer_en": "Truthfulness is the foundation for liberation and spiritual integrity.",
+    "answer_hi": "सत्यनिष्ठा मुक्ति और आध्यात्मिक सततता की नींव है।",
+    "shlokas": [
+      {
+        "chapter": "10",
+        "verse": "16",
+        "shlok": "सत्यं ब्रूयात्प्रियं ब्रूयाद्वै वान्न ब्रूयात्सत्यम्।",
+        "meaning_en": "Speak the truth in a pleasant manner; do not speak harsh truths.",
+        "meaning_hi": "सत्य बोलो, परन्तु प्रियतया; कठोर सत्य मत बोलो।"
+      }
+    ]
+  },
+  {
+    "id": "Q132",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "सुख"
+    ],
+    "question_en": "What practice brings lasting peace according to the Gita?",
+    "question_hi": "गीता के अनुसार स्थायी शांति लाने वाला अभ्यास क्या है?",
+    "answer_en": "Practicing detachment, meditation, and selfless service leads to lasting peace.",
+    "answer_hi": "वैराग्य, ध्यान और निःस्वार्थ सेवा का अभ्यास स्थायी शांति लाता है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "15",
+        "shlok": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।",
+        "meaning_en": "One who neither rejoices nor hates is said to have steady wisdom.",
+        "meaning_hi": "जो आनंदित या द्वेषी नहीं होता, वह स्थिर ज्ञान वाला है।"
+      }
+    ]
+  },
+  {
+    "id": "Q133",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "ultimate",
+      "सत्य",
+      "परम सत्य"
+    ],
+    "question_en": "What is the ultimate truth in the Gita?",
+    "question_hi": "गीता में परम सत्य क्या बताया गया है?",
+    "answer_en": "The ultimate truth is the eternal soul, which is beyond birth and death.",
+    "answer_hi": "परम सत्य शाश्वत आत्मा है, जो जन्म और मृत्यु से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य कभी समाप्त नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q134",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the process of self-realization in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार की प्रक्रिया क्या है?",
+    "answer_en": "The process involves self-inquiry, meditation, and understanding the eternal self.",
+    "answer_hi": "यह प्रक्रिया आत्म-पूछताछ, ध्यान और शाश्वत आत्मा को समझने में शामिल है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is neither born nor dies.",
+        "meaning_hi": "आत्मा न कभी उत्पन्न होती है, न कभी नष्ट होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q135",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "trust",
+      "God",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What does surrender to God entail in the Gita?",
+    "question_hi": "गीता में भगवान के प्रति समर्पण का क्या अर्थ है?",
+    "answer_en": "Surrender involves complete trust in God and relinquishing the ego.",
+    "answer_hi": "समर्पण में भगवान पर पूर्ण विश्वास और अहंकार को छोड़ना शामिल है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and surrender to Me alone.",
+        "meaning_hi": "सभी धर्मों को छोड़कर केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q136",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "devotion",
+      "श्रद्धा",
+      "आस्था"
+    ],
+    "question_en": "How does faith influence spiritual practice?",
+    "question_hi": "श्रद्धा आध्यात्मिक अभ्यास को कैसे प्रभावित करती है?",
+    "answer_en": "Faith strengthens resolve and guides one towards spiritual truths.",
+    "answer_hi": "श्रद्धा धैर्य को मजबूत करती है और व्यक्ति को आध्यात्मिक सत्य की ओर मार्गदर्शित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith arises according to the nature of a person.",
+        "meaning_hi": "व्यक्ति की प्रकृति के अनुसार श्रद्धा उत्पन्न होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q137",
+    "category": "service",
+    "keywords": [
+      "service",
+      "selflessness",
+      "help",
+      "सेवा",
+      "निःस्वार्थता"
+    ],
+    "question_en": "What is the significance of selfless service in the Gita?",
+    "question_hi": "गीता में निःस्वार्थ सेवा का महत्व क्या है?",
+    "answer_en": "Selfless service purifies the heart and leads to spiritual growth.",
+    "answer_hi": "निःस्वार्थ सेवा हृदय को शुद्ध करती है और आध्यात्मिक विकास की ओर ले जाती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q138",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What practices lead to inner peace according to the Gita?",
+    "question_hi": "गीता के अनुसार आंतरिक शांति के लिए कौन से अभ्यास आवश्यक हैं?",
+    "answer_en": "Practices include meditation, selfless service, and surrender to God.",
+    "answer_hi": "अभ्यास में ध्यान, निःस्वार्थ सेवा और भगवान को समर्पण शामिल हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष से मुक्त और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q139",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "ultimate",
+      "सत्य",
+      "परम सत्य"
+    ],
+    "question_en": "What is the nature of truth in the Gita?",
+    "question_hi": "गीता में सत्य की प्रकृति क्या है?",
+    "answer_en": "Truth is eternal, unchanging, and the essence of the self.",
+    "answer_hi": "सत्य शाश्वत, अपरिवर्तनीय और आत्मा का सार है।",
+    "shlokas": [
+      {
+        "chapter": "10",
+        "verse": "16",
+        "shlok": "सत्यं ब्रूयात्प्रियं ब्रूयाद्वै वान्न ब्रूयात्सत्यम्।",
+        "meaning_en": "Speak the truth in a pleasant manner; do not speak harsh truths.",
+        "meaning_hi": "सत्य बोलो, परन्तु प्रियतया; कठोर सत्य मत बोलो।"
+      }
+    ]
+  },
+  {
+    "id": "Q140",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "duty",
+      "जीवन",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the purpose of life according to the Gita?",
+    "question_hi": "गीता के अनुसार जीवन का उद्देश्य क्या है?",
+    "answer_en": "To realize the self and fulfill one’s dharma with detachment.",
+    "answer_hi": "आत्मा का बोध करना और बिना आसक्ति के अपने धर्म का पालन करना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits of your actions.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q141",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "control",
+      "focus",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "How does one master their mind as per the Gita?",
+    "question_hi": "गीता के अनुसार मन पर कैसे अधिकार प्राप्त करें?",
+    "answer_en": "Mastering the mind is achieved through consistent practice, detachment, and meditation.",
+    "answer_hi": "मन पर अधिकार निरंतर अभ्यास, वैराग्य और ध्यान से प्राप्त होता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "5",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should uplift oneself by one’s own mind, not degrade.",
+        "meaning_hi": "व्यक्ति को अपने मन से स्वयं को ऊपर उठाना चाहिए, न कि नीचे गिराना।"
+      }
+    ]
+  },
+  {
+    "id": "Q142",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "detachment",
+      "action",
+      "कर्म",
+      "असंलग्नता"
+    ],
+    "question_en": "Why is detachment important in performing karma?",
+    "question_hi": "कर्म करते समय असंलग्नता क्यों आवश्यक है?",
+    "answer_en": "Detachment helps maintain peace of mind and prevents the bondage of results.",
+    "answer_hi": "असंलग्नता मानसिक शांति बनाए रखती है और कर्म के फलों के बंधन से बचाती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to work only, but never to its fruits.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, फल में नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q143",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "truth",
+      "धर्म",
+      "सत्य"
+    ],
+    "question_en": "How is truth connected to dharma?",
+    "question_hi": "धर्म और सत्य का क्या संबंध है?",
+    "answer_en": "Truth is the foundation upon which dharma stands and functions.",
+    "answer_hi": "सत्य वह आधार है जिस पर धर्म खड़ा होता है और चलता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "7",
+        "shlok": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।",
+        "meaning_en": "Whenever there is a decline in righteousness, I incarnate.",
+        "meaning_hi": "जब भी धार्मिकता का पतन होता है, मैं अवतार लेता हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q144",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "faith",
+      "devotion",
+      "भक्ति",
+      "श्रद्धा"
+    ],
+    "question_en": "What is the role of faith in Bhakti yoga?",
+    "question_hi": "भक्ति योग में श्रद्धा की भूमिका क्या है?",
+    "answer_en": "Faith anchors the devotee’s heart and sustains their spiritual journey.",
+    "answer_hi": "श्रद्धा भक्त के हृदय को संबल देती है और आध्यात्मिक यात्रा को जारी रखती है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "20",
+        "shlok": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।",
+        "meaning_en": "Those who constantly think of Me, I deliver from trouble.",
+        "meaning_hi": "जो लोग निरंतर मेरा चिंतन करते हैं, मैं उन्हें संकट से मुक्त करता हूं।"
+      }
+    ]
+  },
+  {
+    "id": "Q145",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "enlightenment",
+      "ज्ञान",
+      "प्रबोधन"
+    ],
+    "question_en": "In what way does wisdom enlighten a person?",
+    "question_hi": "ज्ञान व्यक्ति को किस प्रकार प्रकाशित करता है?",
+    "answer_en": "Wisdom enables recognition of the transient nature of life and the eternal self.",
+    "answer_hi": "ज्ञान जीवन की क्षणिकता और शाश्वत आत्मा को पहचानने में मदद करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "36",
+        "shlok": "कर्मणि व्यज्यते चेत्स न तत् कार्यं प्रजाह्यते।",
+        "meaning_en": "If actions are performed with knowledge, they purify the mind.",
+        "meaning_hi": "यदि कर्म ज्ञान के साथ किये जाएं, तो मन शुद्ध होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q146",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mind",
+      "concentration",
+      "ध्यान",
+      "एकाग्रता"
+    ],
+    "question_en": "Why is concentration important in meditation?",
+    "question_hi": "ध्यान में एकाग्रता क्यों आवश्यक है?",
+    "answer_en": "Concentration steadies the mind and deepens spiritual awareness.",
+    "answer_hi": "एकाग्रता मन को स्थिर करती है और आध्यात्मिक जागरूकता को गहरा करती है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "25",
+        "shlok": "यत चित्ते प्रशान्ते योगं नियच्छति ताकिलम्।",
+        "meaning_en": "One who controls the mind achieves yoga.",
+        "meaning_hi": "जो मन को नियंत्रित करता है, वह योग प्राप्त करता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q147",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "liberation",
+      "moksha",
+      "आत्मज्ञान",
+      "मोक्ष"
+    ],
+    "question_en": "What is the destination of self-realization?",
+    "question_hi": "आत्म-साक्षात्कार का अंतिम लक्ष्य क्या है?",
+    "answer_en": "The ultimate destination is liberation from the cycle of birth and death.",
+    "answer_hi": "अंतिम लक्ष्य जन्म-मरण के चक्र से मुक्ति है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "72",
+        "shlok": "यथा प्रकाशको मृगाः मोहं छिन्दन्ति तमः सरसिजम्।",
+        "meaning_en": "Just as fire illumines a forest, so does knowledge illuminate the soul.",
+        "meaning_hi": "जिस प्रकार अग्नि जंगल को प्रकाशित करती है, वैसे ही ज्ञान आत्मा का प्रकाश है।"
+      }
+    ]
+  },
+  {
+    "id": "Q148",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "mindfulness",
+      "समता",
+      "संतुलन"
+    ],
+    "question_en": "How does equanimity assist in dealing with challenges?",
+    "question_hi": "समता कठिनाइयों का सामना करने में कैसे मदद करती है?",
+    "answer_en": "It provides a balanced outlook, preventing emotional disturbances.",
+    "answer_hi": "यह संतुलित दृष्टिकोण रखती है, जिससे भावनात्मक विघटन नहीं होता।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "14",
+        "shlok": "मात्सरेऽमृतत्वाय सांस्पर्शजयते चर्मणि।",
+        "meaning_en": "With practice, one becomes indifferent to repeated happiness and distress.",
+        "meaning_hi": "अभ्यास से व्यक्ति सुख-दुःख से उदासीन हो जाता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q149",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "renunciation",
+      "freedom",
+      "वैराग्य",
+      "त्याग"
+    ],
+    "question_en": "What advice does the Gita give about renunciation?",
+    "question_hi": "गीता में त्याग के बारे में क्या सलाह दी गई है?",
+    "answer_en": "True renunciation is performing actions without attachment or desire.",
+    "answer_hi": "सच्चा त्याग बिना लगाव या इच्छा के कर्म करना है।",
+    "shlokas": [
+      {
+        "chapter": "5",
+        "verse": "4",
+        "shlok": "कर्म ब्रह्मसंन्यासं प्रारभते न काङ्क्षति।",
+        "meaning_en": "Renouncing the fruits of action constitutes true renunciation.",
+        "meaning_hi": "कर्म के फलों का त्याग सच्चा त्याग है।"
+      }
+    ]
+  },
+  {
+    "id": "Q150",
+    "category": "devotion",
+    "keywords": [
+      "devotion",
+      "love",
+      "service",
+      "भक्ति",
+      "सेवा"
+    ],
+    "question_en": "How is love expressed in Bhakti Yoga?",
+    "question_hi": "भक्ति योग में प्रेम कैसे व्यक्त होता है?",
+    "answer_en": "Love is expressed through surrender, service, and unwavering faith in God.",
+    "answer_hi": "प्रेम समर्पण, सेवा और भगवान के प्रति अटूट विश्वास के माध्यम से व्यक्त होता है।",
+    "shlokas": [
+      {
+        "chapter": "10",
+        "verse": "10",
+        "shlok": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः।",
+        "meaning_en": "I am the Self, O Arjuna, seated in the hearts of all beings.",
+        "meaning_hi": "हे अर्जुन, मैं सभी प्राणियों के हृदय में स्थित आत्मा हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q151",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "cause and effect",
+      "कर्म",
+      "काम और फल"
+    ],
+    "question_en": "How does the law of cause and effect relate to karma in the Gita?",
+    "question_hi": "गीता में कर्म का कारण और प्रभाव का नियम कैसे बताया गया है?",
+    "answer_en": "Every action has consequences, and understanding this helps one act wisely.",
+    "answer_hi": "हर कर्म के परिणाम होते हैं, और इसे समझना बुद्धिमानी से कार्य करने में मदद करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "17",
+        "shlok": "कर्मणा ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।",
+        "meaning_en": "One should understand both action and inaction.",
+        "meaning_hi": "कर्म और अकर्म दोनों को समझना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q152",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "law",
+      "धर्म",
+      "न्याय"
+    ],
+    "question_en": "What ensures that dharma is preserved in society?",
+    "question_hi": "संपदा में धर्म की रक्षा कैसे सुनिश्चित होती है?",
+    "answer_en": "Adherence to righteousness and fulfillment of individual duties uphold dharma.",
+    "answer_hi": "न्याय का पालन और व्यक्तिगत कर्तव्यों का पालन धर्म को बनाए रखता है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "16",
+        "shlok": "एवं सततयुक्ता ये भक्तास्ते मे प्रियाप्रिये।",
+        "meaning_en": "Devotees who are constantly engaged in my service are dear to me.",
+        "meaning_hi": "जो भक्त निरंतर मेरी सेवा में लगे हैं, वे मुझको प्यारे हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q153",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "surrender",
+      "भक्ति",
+      "समर्पण"
+    ],
+    "question_en": "How does surrender enhance devotion?",
+    "question_hi": "समर्पण भक्ति को कैसे बढ़ावा देता है?",
+    "answer_en": "Surrender removes ego, enabling pure and unconditional love for God.",
+    "answer_hi": "समर्पण अहंकार को समाप्त करता है जिससे भगवान के प्रति शुद्ध और निःस्वार्थ प्रेम उत्पन्न होता है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to me.",
+        "meaning_hi": "जो द्वेष रहित और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q154",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "self-realization",
+      "ज्ञान",
+      "बोध"
+    ],
+    "question_en": "How does knowledge lead to self-realization?",
+    "question_hi": "ज्ञान आत्म-साक्षात्कार कैसे ले जाता है?",
+    "answer_en": "By dispelling ignorance, knowledge reveals the soul’s true nature.",
+    "answer_hi": "अज्ञानता दूर करके, ज्ञान आत्मा की सच्ची प्रकृति प्रकट करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing as pure as knowledge.",
+        "meaning_hi": "ज्ञान की तरह शुद्ध कुछ भी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q155",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "concentration",
+      "inner peace",
+      "ध्यान",
+      "शांति"
+    ],
+    "question_en": "What are the benefits of meditation as explained in the Gita?",
+    "question_hi": "गीता में ध्यान के लाभ क्या हैं?",
+    "answer_en": "It leads to a focused mind, self-control, and peaceful existence.",
+    "answer_hi": "यह एकाग्र मन, आत्म-नियंत्रण, और शांतिपूर्ण जीवन की ओर ले जाता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "16",
+        "shlok": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नत।",
+        "meaning_en": "Yoga is neither for the one who overindulges nor for the ascetic.",
+        "meaning_hi": "योग न अधिक आसक्त के लिए है, न ही कड़ी तपस्या करने वाले के लिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q156",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "liberation",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the role of self-realization in liberation?",
+    "question_hi": "मुक्ति में आत्म-साक्षात्कार की क्या भूमिका है?",
+    "answer_en": "Self-realization is freedom from the cycle of birth and death.",
+    "answer_hi": "आत्म-साक्षात्कार जन्म-मरण के चक्र से मुक्ति है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is neither born nor dies.",
+        "meaning_hi": "आत्मा न जन्मती है, न मरती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q157",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "composure",
+      "balance",
+      "समता",
+      "संतुलन"
+    ],
+    "question_en": "How can one develop equanimity?",
+    "question_hi": "समता कैसे विकसित की जा सकती है?",
+    "answer_en": "Through consistent practice of detachment, meditation, and mindfulness.",
+    "answer_hi": "अविरक्ति, ध्यान और सचेतनता का नियमित अभ्यास करके।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "48",
+        "shlok": "योगस्थः कुरु कर्माणि संगं त्यक्त्वा धनंजय।",
+        "meaning_en": "Perform all duties equably, abandoning all attachment.",
+        "meaning_hi": "सभी कर्तव्यों को समता से करो और सभी लगाव त्याग दो।"
+      }
+    ]
+  },
+  {
+    "id": "Q158",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "freedom",
+      "renunciation",
+      "वैराग्य",
+      "त्याग"
+    ],
+    "question_en": "Why is detachment essential in spiritual practice?",
+    "question_hi": "आध्यात्मिक अभ्यास में वैराग्य क्यों आवश्यक है?",
+    "answer_en": "Detachment frees the soul from desires, enabling peace and clarity.",
+    "answer_hi": "वैराग्य इच्छाओं से मुक्ति दिलाता है, जो शांति और स्पष्टता लाता है।",
+    "shlokas": [
+      {
+        "chapter": "5",
+        "verse": "8",
+        "shlok": "योगी युञ्जीत सततंात्मानं रहसि स्थितः।",
+        "meaning_en": "The yogi remains independent and detached in solitude.",
+        "meaning_hi": "योगी एकांत में स्वतंत्र और निर्लिप्त रहता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q159",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "devotion",
+      "submission",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What is the benefit of surrendering to the divine?",
+    "question_hi": "दिव्य के प्रति समर्पण का क्या लाभ है?",
+    "answer_en": "It brings protection, guidance, and inner peace.",
+    "answer_hi": "यह सुरक्षा, मार्गदर्शन, और आंतरिक शांति लाता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "मामेकं शरणं व्रज।",
+        "meaning_en": "Take refuge in Me alone.",
+        "meaning_hi": "केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q160",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "conviction",
+      "श्रद्धा",
+      "विश्वास"
+    ],
+    "question_en": "How does faith influence spiritual progress?",
+    "question_hi": "आध्यात्मिक प्रगति में श्रद्धा का क्या प्रभाव होता है?",
+    "answer_en": "Faith strengthens resolve and provides a foundation for spiritual growth.",
+    "answer_hi": "श्रद्धा दृढ़ता बढ़ाती है और आध्यात्मिक विकास के लिए आधार प्रदान करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith corresponds to the nature of the person.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q161",
+    "category": "service",
+    "keywords": [
+      "service",
+      "selflessness",
+      "karma yoga",
+      "सेवा",
+      "कर्म योग"
+    ],
+    "question_en": "How is selfless service viewed in the Bhagavad Gita?",
+    "question_hi": "भगवद गीता में निःस्वार्थ सेवा को कैसे देखा गया है?",
+    "answer_en": "Selfless service is a form of worship that purifies the heart and aids liberation.",
+    "answer_hi": "निःस्वार्थ सेवा एक प्रकार की पूजा है जो हृदय को शुद्ध करती है तथा मुक्ति में सहायता करती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित कर करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q162",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What leads to enduring inner peace as per the Gita?",
+    "question_hi": "गीता के अनुसार स्थायी आंतरिक शांति कैसे प्राप्त होती है?",
+    "answer_en": "Detachment, meditation, and faith in God cultivates lasting peace.",
+    "answer_hi": "वैराग्य, ध्यान और भगवान में श्रद्धा स्थायी शांति लाते हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष रहित और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q163",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "satya",
+      "सत्य",
+      "वास्तविकता"
+    ],
+    "question_en": "What defines eternal truth according to the Gita?",
+    "question_hi": "गीता के अनुसार शाश्वत सत्य की परिभाषा क्या है?",
+    "answer_en": "Eternal truth is the unchanging nature of the soul beyond the material world.",
+    "answer_hi": "शाश्वत सत्य आत्मा की अपरिवर्तनीय प्रकृति है जो भौतिक जगत से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य कभी समाप्त नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q164",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "spirituality",
+      "जीवन",
+      "आध्यात्म"
+    ],
+    "question_en": "How does the Gita describe the purpose of life?",
+    "question_hi": "गीता के अनुसार जीवन का उद्देश्य क्या है?",
+    "answer_en": "To realize the eternal self, fulfill one's duties, and transcend the cycle of birth and death.",
+    "answer_hi": "शाश्वत आत्मा को जानना, अपने कर्तव्यों का पालन करना और जन्म-मरण के चक्र से ऊपर उठना।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "16",
+        "shlok": "एवं सततयुक्ता ये भक्तास्ते मे प्रियाप्रिये।",
+        "meaning_en": "Those constantly devoted are dear to the Lord.",
+        "meaning_hi": "जो सदा भक्त होते हैं, वे प्रभु के प्रिय होते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q165",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "focus",
+      "control",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "What method does the Gita suggest for controlling the mind?",
+    "question_hi": "मन को नियंत्रित करने के लिए गीता क्या तरीका सुझाती है?",
+    "answer_en": "Through unwavering focus, detachment, and practice of meditation.",
+    "answer_hi": "अडिग एकाग्रता, अविरक्ति, और ध्यान के अभ्यास से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "26",
+        "shlok": "यतो यतो निश्चरति मनश्चञ्चलं स्थिरं भयात्मकम्।",
+        "meaning_en": "The restless mind should be restrained and made steady.",
+        "meaning_hi": "अशांत मन को नियंत्रित करके स्थिर किया जाना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q166",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "consequences",
+      "action",
+      "कर्म",
+      "परिणाम"
+    ],
+    "question_en": "What is the moral behind understanding consequences of karma?",
+    "question_hi": "कर्म के परिणामों को समझने का नैतिक संदेश क्या है?",
+    "answer_en": "Understanding consequences encourages responsible and mindful actions.",
+    "answer_hi": "परिणामों को समझना जिम्मेदार और जागरूक कर्मों को प्रोत्साहित करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "17",
+        "shlok": "कर्मणा ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।",
+        "meaning_en": "One should understand both action and inaction.",
+        "meaning_hi": "कर्म और अकर्म दोनों को समझना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q167",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "law",
+      "righteousness",
+      "धर्म",
+      "न्याय"
+    ],
+    "question_en": "How does upholding dharma ensure societal order?",
+    "question_hi": "धर्म का पालन सामाजिक व्यवस्था कैसे सुनिश्चित करता है?",
+    "answer_en": "Dharma guides conduct and maintains harmony and justice in society.",
+    "answer_hi": "धर्म आचार-व्यवहार का मार्गदर्शन करता है और समाज में सामंजस्य और न्याय बनाए रखता है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "25",
+        "shlok": "तस्मादसक्तः सततं कार्यं कर्म समाचर।",
+        "meaning_en": "Therefore, perform your duty without attachment.",
+        "meaning_hi": "इसलिए, बिना लगाव के अपने कर्तव्य का पालन करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q168",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "love",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "How does devotion transform the seeker?",
+    "question_hi": "भक्ति साधक को कैसे परिवर्तन करती है?",
+    "answer_en": "Devotion dissolves ego and fosters a loving relationship with God.",
+    "answer_hi": "भक्ति अहंकार को समाप्त करती है और भगवान के साथ प्रेमपूर्ण संबंध बनाती है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "20",
+        "shlok": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।",
+        "meaning_en": "Those who think of Me constantly, I free from troubles.",
+        "meaning_hi": "जो निरंतर मुझ पर ध्यान लगाते हैं, मैं उन्हें दुःखों से मुक्त करता हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q169",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "truth",
+      "ज्ञान",
+      "सत्य"
+    ],
+    "question_en": "How does wisdom help to overcome challenges?",
+    "question_hi": "बुद्धि चुनौतियों को पार करने में कैसे मदद करती है?",
+    "answer_en": "Wisdom gives clarity and strength to face difficulties with equanimity.",
+    "answer_hi": "बुद्धि स्पष्टता और ताकत देती है ताकि चुनौतियों का संतुलित मन से सामना किया जा सके।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "39",
+        "shlok": "श्रद्धावान्लभते ज्ञानं तत्परः संयतेन्द्रियः।",
+        "meaning_en": "One with faith and self-control gains knowledge.",
+        "meaning_hi": "जो श्रद्धावान और संयमी है, उसे ज्ञान प्राप्त होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q170",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "peace",
+      "practice",
+      "ध्यान",
+      "प्रार्थना"
+    ],
+    "question_en": "How is peace achieved through meditation?",
+    "question_hi": "ध्यान के द्वारा शांति कैसे प्राप्त होती है?",
+    "answer_en": "Steady focus and detachment ease the mind into inner calm.",
+    "answer_hi": "स्थिर एकाग्रता और वैराग्य मन को आंतरिक शांति प्रदान करते हैं।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "16",
+        "shlok": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नत।",
+        "meaning_en": "Yoga is not for one who eats too much or too little.",
+        "meaning_hi": "योग न अधिक खाने वाले के लिए है न ही कम खाने वाले के लिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q171",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "soul",
+      "awareness",
+      "आत्मबोध",
+      "जागृति"
+    ],
+    "question_en": "What awakens self-realization in the soul?",
+    "question_hi": "आत्मा में आत्म-साक्षात्कार क्या जागृत करता है?",
+    "answer_en": "Detachment, knowledge, and disciplined practice awaken self-realization.",
+    "answer_hi": "वैराग्य, ज्ञान, और अनुशासित अभ्यास आत्म-साक्षात्कार जागृत करते हैं।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "13",
+        "shlok": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।",
+        "meaning_en": "Just as the soul passes through life stages in the body.",
+        "meaning_hi": "जैसे आत्मा शरीर में जीवन के चरणों से गुजरता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q172",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "stability",
+      "समता",
+      "संतुलन"
+    ],
+    "question_en": "How can one maintain equanimity?",
+    "question_hi": "समता कैसे बनाए रखी जा सकती है?",
+    "answer_en": "By practicing detachment and viewing pleasure and pain equally.",
+    "answer_hi": "वैराग्य का अभ्यास कर और सुख-दुःख को समान देखकर।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "14",
+        "shlok": "मात्सरेऽमृतत्वाय सांस्पर्शजयते चर्मणि।",
+        "meaning_en": "With practice, one becomes indifferent to dualities.",
+        "meaning_hi": "अभ्यास से व्यक्ति द्वैतों के प्रति उदासीन हो जाता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q173",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "freedom",
+      "suffering",
+      "वैराग्य",
+      "दुःख"
+    ],
+    "question_en": "How does detachment ease suffering?",
+    "question_hi": "वैराग्य दुःख को कैसे कम करता है?",
+    "answer_en": "Detachment removes the craving and aversion that cause suffering.",
+    "answer_hi": "वैराग्य इच्छाओं और द्वेष को हटाकर दुःख कम करता है।",
+    "shlokas": [
+      {
+        "chapter": "5",
+        "verse": "6",
+        "shlok": "कर्म ब्रह्मसंन्यासं प्रारभते न काङ्क्षति।",
+        "meaning_en": "Renunciation of action brings freedom without craving.",
+        "meaning_hi": "कर्म त्याग से इच्छाओं के बिना मुक्ति मिलती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q174",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "trust",
+      "peace",
+      "समर्पण",
+      "शांति"
+    ],
+    "question_en": "What is the impact of surrender on the mind?",
+    "question_hi": "मन पर समर्पण का क्या प्रभाव होता है?",
+    "answer_en": "Surrender brings peace by relieving one of heavy burdens.",
+    "answer_hi": "समर्पण से मन को शांति मिलती है क्योंकि यह भारी बोझों से मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "65",
+        "shlok": "मन्मना भावमाद्य मे युध्यस्व जगत् हिताय।",
+        "meaning_en": "Engage in my work with your mind focused on Me.",
+        "meaning_hi": "मन मेरा सोचकर संसार के हित के लिए काम करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q175",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "confidence",
+      "devotion",
+      "श्रद्धा",
+      "आस्था"
+    ],
+    "question_en": "How does faith assist in overcoming doubts?",
+    "question_hi": "श्रद्धा संदेहों को पार करने में कैसे मदद करती है?",
+    "answer_en": "Faith fortifies the seeker’s spirit and steadies their path.",
+    "answer_hi": "श्रद्धा साधक के मन को दृढ़ बनाती है और मार्ग स्थिर करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "23",
+        "shlok": "निर्द्वन्द्वो नित्यसंतुष्टो निर्लिप्तं योगउत्कृष्टम्।",
+        "meaning_en": "The perfected yogi is free from dualities and ever content.",
+        "meaning_hi": "परिपूर्ण योगी द्वैत से मुक्त और सदा संतुष्ट होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q176",
+    "category": "service",
+    "keywords": [
+      "service",
+      "help",
+      "charity",
+      "सेवा",
+      "दान"
+    ],
+    "question_en": "Why is helping others considered a form of worship?",
+    "question_hi": "दूसरों की मदद करना पूजा क्यों माना जाता है?",
+    "answer_en": "Because selfless service reflects divine qualities and purifies the heart.",
+    "answer_hi": "क्योंकि निःस्वार्थ सेवा दिव्य गुणों को दर्शाती है और हृदय को शुद्ध करती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित कर करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q177",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "tranquility",
+      "calm",
+      "शांति",
+      "स्थिरता"
+    ],
+    "question_en": "How is tranquility achieved sustainably?",
+    "question_hi": "शांति किस प्रकार स्थायी रूप से प्राप्त होती है?",
+    "answer_en": "Through consistent practice of equanimity and spiritual disciplines.",
+    "answer_hi": "समता और आध्यात्मिक अभ्यासों के नियमित अभ्यास से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "18",
+        "shlok": "युक्त आसीनः मत्परायणः योगयुक्तात्मा निर releasee।",
+        "meaning_en": "Seated with mind focused on Me, the yogi is freed from worldly bonds.",
+        "meaning_hi": "मेरे प्रति केंद्रित मन के साथ बैठा योगी सांसारिक पिंजरों से मुक्त होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q178",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "satya",
+      "real",
+      "सत्य",
+      "असत्य"
+    ],
+    "question_en": "How is truth distinguished from falsehood in the Gita?",
+    "question_hi": "गीता में सत्य और असत्य कैसे पहचाने जाते हैं?",
+    "answer_en": "Truth is eternal and unchanging; falsehood is transient and illusory.",
+    "answer_hi": "सत्य शाश्वत और अपरिवर्तनीय है; असत्य अस्थायी और भ्रांतिपूर्ण।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य कभी समाप्त नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q179",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "death",
+      "जीवन",
+      "मृत्यु"
+    ],
+    "question_en": "What is the Gita's view on life and death?",
+    "question_hi": "गीता में जीवन और मृत्यु के बारे में क्या दृष्टिकोण है?",
+    "answer_en": "Life is a temporary body for the soul, which is eternal and indestructible.",
+    "answer_hi": "जीवन आत्मा के लिए अस्थायी शरीर है, जो शाश्वत और अजर है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "22",
+        "shlok": "वासांसि जीर्णानि यथा विहाय...",
+        "meaning_en": "Just as a person changes clothes, the soul changes bodies.",
+        "meaning_hi": "जैसे व्यक्ति शरीर बदलता है, वैसा ही आत्मा शरीर बदलती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q180",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "restraint",
+      "focus",
+      "मन",
+      "एकाग्रता"
+    ],
+    "question_en": "How can one achieve unshakable focus?",
+    "question_hi": "अडिग एकाग्रता कैसे प्राप्त करें?",
+    "answer_en": "By training the mind through meditation and detachment from distractions.",
+    "answer_hi": "ध्यान और विकर्षणों से विमुक्ति के माध्यम से मन को प्रशिक्षित करके।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "25",
+        "shlok": "यत् चिन्त्यते हस्ते चित्ते यत्र नियतं दर्पणम्।",
+        "meaning_en": "Fixing the mind on one object cleanses the mind like a mirror.",
+        "meaning_hi": "मन को एक वस्तु पर केंद्रित करना मन को दर्पण की तरह शुद्ध करता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q181",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "intention",
+      "कर्म",
+      "इरादा"
+    ],
+    "question_en": "How does intention influence the result of actions?",
+    "question_hi": "कर्म के परिणामों पर नियत का क्या प्रभाव होता है?",
+    "answer_en": "Pure intentions sanctify the action and its fruits.",
+    "answer_hi": "शुद्ध नियत कर्म और इसके फलों को पवित्र बनाते हैं।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "17",
+        "shlok": "कर्मणा ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।",
+        "meaning_en": "One must understand both action and inaction.",
+        "meaning_hi": "कर्म और अकर्म दोनों को समझना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q182",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "ethics",
+      "righteousness",
+      "धर्म",
+      "नैतिकता"
+    ],
+    "question_en": "What ethics are fundamental to dharma?",
+    "question_hi": "धर्म के लिए कौन से नैतिक सिद्धांत आवश्यक हैं?",
+    "answer_en": "Non-violence, truthfulness, compassion, and discipline are core ethics.",
+    "answer_hi": "अहिंसा, सत्यनिष्ठा, करुणा और अनुशासन मूल नैतिक सिद्धांत हैं।",
+    "shlokas": [
+      {
+        "chapter": "16",
+        "verse": "1",
+        "shlok": "अहिंसा समता तुष्टिः तपः शौचं दमोऽस्तेयम्।",
+        "meaning_en": "Non-violence, equanimity, contentment, austerity, and self-restraint.",
+        "meaning_hi": "अहिंसा, समता, संतोष, तप और संयम।"
+      }
+    ]
+  },
+  {
+    "id": "Q183",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "obedience",
+      "भक्ति",
+      "आज्ञाकारिता"
+    ],
+    "question_en": "How does obedience express devotion?",
+    "question_hi": "आज्ञाकारिता भक्ति को कैसे व्यक्त करती है?",
+    "answer_en": "Obedience to divine will demonstrates surrender and strengthens faith.",
+    "answer_hi": "दिव्य इच्छा के प्रति आज्ञाकारिता समर्पण व्यक्त करती है और विश्वास को मजबूत बनाती है।",
+    "shlokas": [
+      {
+        "chapter": "9",
+        "verse": "3",
+        "shlok": "मय्येव मन आधत्स्व मयि बुद्धिंinvestò।",
+        "meaning_en": "Fix your mind on Me alone; surrender all actions to Me.",
+        "meaning_hi": "मेरा ही ध्यान करो और सभी कर्म मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q184",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "learning",
+      "spirituality",
+      "ज्ञान",
+      "अध्ययन"
+    ],
+    "question_en": "Why is continual learning important in the spiritual path?",
+    "question_hi": "आध्यात्मिक मार्ग में निरंतर शिक्षा क्यों महत्वपूर्ण है?",
+    "answer_en": "Because spiritual insight deepens with ongoing study and reflection.",
+    "answer_hi": "क्योंकि अध्यात्मिक ज्ञान शिक्षा और चिंतन से गहरा होता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "34",
+        "shlok": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।",
+        "meaning_en": "Learn through humble inquiry and diligent service.",
+        "meaning_hi": "विनयपूर्वक पूछताछ और सेवा से सीखो।"
+      }
+    ]
+  },
+  {
+    "id": "Q185",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "practice",
+      "restraint",
+      "ध्यान",
+      "साधना"
+    ],
+    "question_en": "How does restraint aid meditation?",
+    "question_hi": "ध्यान में संयम कैसे मदद करता है?",
+    "answer_en": "Restraint calms the body and senses, making meditation more effective.",
+    "answer_hi": "संयम शरीर और इंद्रियों को शांत करता है, जिससे ध्यान प्रभावी होता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "11",
+        "shlok": "योगी पूर्वं कृत्वा योगं कर्म कुर्वानसक्तः।",
+        "meaning_en": "Having practiced yoga, perform actions without attachment.",
+        "meaning_hi": "योग का अभ्यास कर, कर्म बिना आसक्ति के करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q186",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "freedom",
+      "moksha",
+      "आत्मज्ञान",
+      "मुक्ति"
+    ],
+    "question_en": "What is the supreme goal of self-realization?",
+    "question_hi": "आत्म-साक्षात्कार का सर्वोच्च लक्ष्य क्या है?",
+    "answer_en": "To attain liberation from the cycle of birth and death.",
+    "answer_hi": "जन्म-मृत्यु के चक्र से मुक्ति प्राप्त करना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "21",
+        "shlok": "वासांसि जीर्णानि यथा विहाय।",
+        "meaning_en": "Just as a person changes old garments, the soul moves to new bodies.",
+        "meaning_hi": "जैसे व्यक्ति पुराने वस्त्र बदलता है, आत्मा भी नए शरीर धारण करती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q187",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "mindfulness",
+      "balance",
+      "समता",
+      "संतुलन"
+    ],
+    "question_en": "What is the importance of balance in thought?",
+    "question_hi": "चिंतन में संतुलन का क्या महत्व है?",
+    "answer_en": "Balance leads to steady judgment and inner peace amidst challenges.",
+    "answer_hi": "सन्तुलन स्थिर निर्णय और आंतरिक शांति लाता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "56",
+        "shlok": "यत् चिन्त्यते हस्ते चित्ते यत्र नियतं दर्पणम्।",
+        "meaning_en": "A calm and focused mind is like a polished mirror.",
+        "meaning_hi": "एक शांत और केंद्रित मन एक चमचमाते दर्पण की तरह है।"
+      }
+    ]
+  },
+  {
+    "id": "Q188",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "Explain the benefit of detachment from desires.",
+    "question_hi": "इच्छाओं से वैराग्य का लाभ बताइए।",
+    "answer_en": "Detachment reduces suffering and leads to liberation.",
+    "answer_hi": "वैराग्य दुःख को कम करता है और मुक्ति की ओर ले जाता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "70",
+        "shlok": "अपकारशुचौ धर्मे गतस्याऽत्मानमाश्रितः।",
+        "meaning_en": "One with detachment is steadfast and unaffected by dualities.",
+        "meaning_hi": "वैराग्य धारण करने वाला स्थिर और द्वैतों से अप्रभावित होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q189",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "faith",
+      "devotion",
+      "समर्पण",
+      "श्रद्धा"
+    ],
+    "question_en": "How does surrender benefit the devotee?",
+    "question_hi": "समर्पण से भक्त को क्या लाभ होता है?",
+    "answer_en": "Surrender brings divine protection, guidance, and peace.",
+    "answer_hi": "समर्पण से दिव्य सुरक्षा, मार्गदर्शन और शांति मिलती है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and take refuge in me alone.",
+        "meaning_hi": "सभी धर्मों को त्याग कर केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q190",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "trust",
+      "श्रद्धा",
+      "विश्वास"
+    ],
+    "question_en": "Why is faith fundamental to spiritual progress?",
+    "question_hi": "आध्यात्मिक प्रगति में श्रद्धा क्यों जरूरी है?",
+    "answer_en": "Faith strengthens resolve and aids in understanding deeper truths.",
+    "answer_hi": "श्रद्धा दृढ़ता बढ़ाती है और गहरे सत्य को समझने में मदद करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith arises according to the nature of the individual.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार उत्पन्न होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q191",
+    "category": "service",
+    "keywords": [
+      "service",
+      " charity",
+      "help",
+      "सेवा",
+      "दान"
+    ],
+    "question_en": "Describe the role of service in spiritual practice.",
+    "question_hi": "आध्यात्मिक अभ्यास में सेवा की भूमिका क्या है?",
+    "answer_en": "Service purifies the heart and helps in transcending self-centeredness.",
+    "answer_hi": "सेवा हृदय को शुद्ध करती है और स्वार्थमुक्ति में सहायता करती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "19",
+        "shlok": "तस्मादसक्तः सततं कार्यं कर्म समाचर।",
+        "meaning_en": "Perform your duties without attachment.",
+        "meaning_hi": "अपने कर्तव्यों को बिना लगाव के करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q192",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "tranquility",
+      "mindfulness",
+      "शांति",
+      "ध्यान"
+    ],
+    "question_en": "How can one cultivate lasting peace?",
+    "question_hi": "स्थायी शांति कैसे प्राप्त की जा सकती है?",
+    "answer_en": "Through mindful living, meditation, and detachment from worldly urges.",
+    "answer_hi": "जागरूक जीवन, ध्यान और सांसारिक इच्छाओं से अविरक्ति के माध्यम से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "7",
+        "shlok": "एवं योगेनात्मनात्मानं पश्यन्नात्मन मत्परायणः।",
+        "meaning_en": "Thus, with yoga, one perceives the self and relies on Me.",
+        "meaning_hi": "इस प्रकार योग से आत्मा का दर्शन करता है और मुझ पर भरोसा करता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q193",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "eternal",
+      "reality",
+      "सत्य",
+      "वास्तविकता"
+    ],
+    "question_en": "What characterizes the eternal truth in the Gita?",
+    "question_hi": "गीता में शाश्वत सत्य की विशेषता क्या है?",
+    "answer_en": "It is timeless, unchanging, and beyond physical manifestation.",
+    "answer_hi": "यह कालातीत, अपरिवर्तनीय और भौतिक रूप से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "Unreal does not exist; the real never ceases.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य सदैव रहता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q194",
+    "category": "life",
+    "keywords": [
+      "life",
+      "cycle",
+      "soul",
+      "जीवन",
+      "आत्मा"
+    ],
+    "question_en": "What does the Gita teach about the cycle of life and death?",
+    "question_hi": "गीता जीवन और मृत्यु के चक्र के बारे में क्या सिखाती है?",
+    "answer_en": "Life is transient; the soul moves from one body to another eternally.",
+    "answer_hi": "जीवन अस्थायी है; आत्मा शाश्वत रूप से शरीरों को बदलती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "22",
+        "shlok": "वासांसि जीर्णानि यथा विहाय...",
+        "meaning_en": "As a person discards old clothes, the soul discards old bodies.",
+        "meaning_hi": "जैसे व्यक्ति पुराने वस्त्रों को छोड़ता है, आत्मा पुराने शरीरों को छोड़ती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q195",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "focus",
+      "clarity",
+      "मन",
+      "एकाग्रता"
+    ],
+    "question_en": "How does focus improve mental clarity as per the Gita?",
+    "question_hi": "गीता के अनुसार मन की स्पष्टता में एकाग्रता कैसे सुधार करती है?",
+    "answer_en": "Focused mind eliminates distractions and reveals true knowledge.",
+    "answer_hi": "एकाग्र मन विचलनों को हटाता है और सच्चा ज्ञान प्रकट करता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "26",
+        "shlok": "यतो यतो निश्चरति मनश्चञ्चलं स्थिरं भयात्मकम्।",
+        "meaning_en": "Wherever the restless mind wanders, one should bring it back.",
+        "meaning_hi": "जहाँ-जहाँ विचलित मन भटकता है, उसे वापस लाना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q196",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "selfless",
+      "duty",
+      "कर्म",
+      "निःस्वार्थ"
+    ],
+    "question_en": "Why is selflessness critical in performing karma?",
+    "question_hi": "कर्म करते समय निःस्वार्थता क्यों महत्वपूर्ण है?",
+    "answer_en": "Selflessness detaches one from outcomes, leading to freedom.",
+    "answer_hi": "निःस्वार्थता व्यक्ति को परिणामों से मुक्त करती है, जिससे स्वतंत्रता मिलती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Surrender all actions to Me with a focused mind.",
+        "meaning_hi": "सब कर्म मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q197",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "ethics",
+      "morality",
+      "धर्म",
+      "नैतिकता"
+    ],
+    "question_en": "How does upholding dharma affect society?",
+    "question_hi": "धर्म की पालना समाज को कैसे प्रभावित करती है?",
+    "answer_en": "It maintains order, justice, and welfare of all beings.",
+    "answer_hi": "यह व्यवस्था, न्याय और सभी जीवों की भलाई बनाए रखती है।",
+    "shlokas": [
+      {
+        "chapter": "16",
+        "verse": "1",
+        "shlok": "अहिंसा समता तुष्टिः तपः शौचं दमोऽस्तेयम्।",
+        "meaning_en": "Non-violence, equanimity, contentment, austerity, and self-control are virtues.",
+        "meaning_hi": "अहिंसा, समता, संतोष, तपस्या, संयम ये गुण हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q198",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "love",
+      "भक्ति",
+      "श्रद्धा"
+    ],
+    "question_en": "How can one develop devotion as per the Gita?",
+    "question_hi": "भक्ति कैसे विकसित करें?",
+    "answer_en": "By constant remembrance, surrender, and selfless service.",
+    "answer_hi": "सतत स्मरण, समर्पण और निःस्वार्थ सेवा से।",
+    "shlokas": [
+      {
+        "chapter": "9",
+        "verse": "22",
+        "shlok": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।",
+        "meaning_en": "Those who worship Me with exclusive devotion, I deliver from all troubles.",
+        "meaning_hi": "जो केवल मेरी पूजा करते हैं, उन्हें मैं सभी दुखों से मुक्त करता हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q199",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "understanding",
+      "discrimination",
+      "ज्ञान",
+      "विवेक"
+    ],
+    "question_en": "What is the importance of discrimination (viveka)?",
+    "question_hi": "विवेक का महत्व क्या है?",
+    "answer_en": "Discrimination distinguishes the real from the unreal, guiding one correctly.",
+    "answer_hi": "विवेक वास्तविक और असत्य के बीच अंतर कर सही मार्ग दिखाता है।",
+    "shlokas": [
+      {
+        "chapter": "13",
+        "verse": "17",
+        "shlok": "यावानर्थ उदपाने सर्वानर्थनिवृत्तये।",
+        "meaning_en": "Through knowledge, all purposes are fulfilled.",
+        "meaning_hi": "ज्ञान द्वारा सभी उद्देश्य पूर्ण होते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q200",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "peace",
+      "focus",
+      "ध्यान",
+      "शांत मन"
+    ],
+    "question_en": "What is the ultimate benefit of meditation?",
+    "question_hi": "ध्यान का अंतिम लाभ क्या है?",
+    "answer_en": "Meditation leads to self-mastery, tranquility, and union with the divine.",
+    "answer_hi": "ध्यान आत्म-नियंत्रण, शांति और ईश्वर से एकता की ओर ले जाता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "19",
+        "shlok": "यैरपि सर्वाणि कर्माणि लोका मामजन्मनि।",
+        "meaning_en": "Experienced yogis transcend the fruits of action.",
+        "meaning_hi": "अनुभवी योगी कर्मों के फलों से ऊपर उठ जाते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q16",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "responsibility",
+      "action",
+      "कर्म",
+      "जिम्मेदारी"
+    ],
+    "question_en": "How does the Bhagavad Gita define responsible action?",
+    "question_hi": "भगवद गीता में जिम्मेदार कर्म को कैसे परिभाषित किया गया है?",
+    "answer_en": "Responsible action is performing duties with awareness, discipline, and without harmful intentions.",
+    "answer_hi": "जिम्मेदार कर्म जागरूकता, अनुशासन और बिना हानिकारक इरादों के अपने कर्तव्य का पालन है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "6",
+        "shlok": "यदि ह्यपेक्षितं तु कर्म सर्वस्य परित्यज्य तत्त्वतः।",
+        "meaning_en": "Abandoning all duties leads to confusion and ruin.",
+        "meaning_hi": "सभी कर्तव्यों को छोड़ देना असमझदारी और विनाश की ओर ले जाता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q17",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "law",
+      "धर्म",
+      "नीति"
+    ],
+    "question_en": "What is the relationship between dharma and law in the Gita?",
+    "question_hi": "गीता में धर्म और कानून का क्या संबंध है?",
+    "answer_en": "Dharma is the moral foundation upon which laws should be based to maintain harmony.",
+    "answer_hi": "धर्म नैतिक आधार है जिस पर कानून टिके हुए हैं जो सद्भाव बनाए रखते हैं।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "16",
+        "shlok": "एवं सततयुक्ता ये भक्तास्ते मे प्रियाप्रिये।",
+        "meaning_en": "Devotees who perform their duties joyfully are dear to Me.",
+        "meaning_hi": "जो भक्त हर्षपूर्वक अपने कर्तव्य का पालन करते हैं, वे मुझको प्रिय हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q18",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "love",
+      "submission",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "How does Bhakti transform an individual?",
+    "question_hi": "भक्ति व्यक्ति को कैसे बदलती है?",
+    "answer_en": "Bhakti dissolves ego, fosters love, and connects the soul with the divine.",
+    "answer_hi": "भक्ति अहंकार को मिटाती है, प्रेम को बढ़ाती है और आत्मा को दिव्य से जोड़ती है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "15",
+        "shlok": "जो सभी जीवों के लिए मित्रवत और दयालु होता है।",
+        "meaning_en": "He who is friendly to all beings is dear to Me.",
+        "meaning_hi": "जो सभी प्राणियों के प्रति मित्रवत है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q19",
+    "category": "knowledge",
+    "keywords": [
+      "wisdom",
+      "insight",
+      "understanding",
+      "ज्ञान",
+      "बोध"
+    ],
+    "question_en": "What is the role of insight in spiritual growth?",
+    "question_hi": "आध्यात्मिक विकास में बोध की क्या भूमिका है?",
+    "answer_en": "Insight allows one to discern truth from illusion, leading to enlightenment.",
+    "answer_hi": "बोध व्यक्ति को माया से सत्य को समझने की क्षमता देता है, जिससे प्रबोधन होता है।",
+    "shlokas": [
+      {
+        "chapter": "13",
+        "verse": "3",
+        "shlok": "तत्त्वं पुरुषं व्यदिवेच यज्जा तन्महत्तत्त्वममृतम्।",
+        "meaning_en": "Discerning the supreme truth leads to immortality.",
+        "meaning_hi": "परम सत्य का ज्ञान अमरता की ओर ले जाता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q20",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "concentration",
+      "focus",
+      "ध्यान",
+      "एकाग्रता"
+    ],
+    "question_en": "How is concentration essential in meditation?",
+    "question_hi": "ध्यान में एकाग्रता क्यों आवश्यक है?",
+    "answer_en": "Concentration steady the mind and enables deep connection with the divine.",
+    "answer_hi": "एकाग्रता मन को स्थिर करती है और दिव्य के साथ गहरा संबंध स्थापित करती है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "12",
+        "shlok": "युक्त आसीन स्थिर मनः प्रशान्तं ध्यानाभ्यामुपैति च।",
+        "meaning_en": "Sitting with a steady mind in yoga, one attains peace through meditation.",
+        "meaning_hi": "योग में स्थिर मन से बैठकर ध्यान द्वारा शांति प्राप्त करता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q21",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "soul",
+      "identity",
+      "आत्मबोध",
+      "सत्य"
+    ],
+    "question_en": "What is the realization of the self in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार क्या है?",
+    "answer_en": "Realizing the self as eternal and beyond the physical form is self-realization.",
+    "answer_hi": "आत्मा को शाश्वत और भौतिक रूप से परे समझना आत्म-साक्षात्कार है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "19",
+        "shlok": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्।",
+        "meaning_en": "The knowledgeable see the soul as deathless and the body as temporary.",
+        "meaning_hi": "ज्ञानी आत्मा को अमर और शरीर को क्षणभंगुर समझता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q22",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "peace",
+      "balance",
+      "समता",
+      "शांति"
+    ],
+    "question_en": "Why is equanimity vital for spiritual practice?",
+    "question_hi": "आध्यात्मिक अभ्यास के लिए समता क्यों महत्वपूर्ण है?",
+    "answer_en": "It helps maintain mental peace amidst dualities, aiding spiritual progress.",
+    "answer_hi": "यह मन की शांति बनाए रखता है और आध्यात्मिक विकास में मदद करता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "15",
+        "shlok": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।",
+        "meaning_en": "The person whom disturbance does not affect is the best among men.",
+        "meaning_hi": "जो व्यक्ति पीड़ा से अप्रभावित रहता है, वह श्रेष्ठ है।"
+      }
+    ]
+  },
+  {
+    "id": "Q23",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "release",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "What does detachment free one from, as per the Gita?",
+    "question_hi": "गीता के अनुसार वैराग्य से व्यक्ति किससे मुक्त होता है?",
+    "answer_en": "Detachment frees one from the bondage of desires and emotional turmoil.",
+    "answer_hi": "वैराग्य इच्छाओं और भावनात्मक अशांति के बंधन से मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "71",
+        "shlok": "ज्ञानी न चास्य प्रज verja संशयस्य कर्ता।",
+        "meaning_en": "The wise is not disturbed by doubts or material attachment.",
+        "meaning_hi": "ज्ञानी संशय और सांसारिक लगाव से प्रभावित नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q24",
+    "category": "service",
+    "keywords": [
+      "service",
+      "selfless",
+      "charity",
+      "सेवा",
+      "दान"
+    ],
+    "question_en": "How is selfless service viewed in the Gita?",
+    "question_hi": "गीता में निःस्वार्थ सेवा को कैसे देखा गया है?",
+    "answer_en": "Selfless service is a form of worship that purifies the mind and soul.",
+    "answer_hi": "निःस्वार्थ सेवा एक प्रकार की पूजा है जो मन और आत्मा को शुद्ध करती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Engage in all actions as an offering to the divine.",
+        "meaning_hi": "सभी कर्मों को ईश्वर को समर्पित कर करते रहो।"
+      }
+    ]
+  },
+  {
+    "id": "Q25",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What practice leads to lasting peace in the Gita?",
+    "question_hi": "गीता में स्थायी शांति के लिए कौन सा अभ्यास आवश्यक है?",
+    "answer_en": "Equanimity and surrender to God lead to lasting inner peace.",
+    "answer_hi": "समता और भगवान को समर्पण से स्थायी आंतरिक शांति मिलती है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all dharmas and take refuge in me.",
+        "meaning_hi": "सभी धर्मों को छोड़कर मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q26",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "ultimate",
+      "सत्य",
+      "परम सत्य"
+    ],
+    "question_en": "What is the ultimate reality described in the Gita?",
+    "question_hi": "गीता में परम सत्य क्या बताया गया है?",
+    "answer_en": "The ultimate reality is the eternal, unchanging soul beyond the material world.",
+    "answer_hi": "परम सत्य शाश्वत और स्थिर आत्मा है जो भौतिक जगत से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य कभी समाप्त नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q27",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "duty",
+      "जीवन",
+      "कर्तव्य"
+    ],
+    "question_en": "According to the Gita, what is the purpose of life?",
+    "question_hi": "गीता के अनुसार जीवन का उद्देश्य क्या है?",
+    "answer_en": "To realize the self and fulfill one’s dharma with detachment.",
+    "answer_hi": "आत्मा का बोध करना और बिना आसक्ति के अपने धर्म का पालन करना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "22",
+        "shlok": "वासांसि जीर्णानि यथा विहाय...",
+        "meaning_en": "Just as old clothes are shed for new ones, the soul discards old bodies for new ones.",
+        "meaning_hi": "जैसे पुराने वस्त्र छोड़कर नए वस्त्र पहनते हैं, वैसे आत्मा पुराने शरीर छोड़कर नया शरीर धारण करता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q28",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "control",
+      "focus",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "How important is mind control in the Gita?",
+    "question_hi": "गीता में मन को नियंत्रित करना कितना महत्वपूर्ण बताया गया है?",
+    "answer_en": "Controlling the mind is essential for spiritual success and peace.",
+    "answer_hi": "मन को नियंत्रित करना आध्यात्मिक सफलता और शांति के लिए आवश्यक है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "26",
+        "shlok": "यत् प्रवृत्तिं भावेन चेतसा न निरुद्यते...",
+        "meaning_en": "The restless mind should be restrained and brought under control.",
+        "meaning_hi": "अशांत मन को संयमित और नियंत्रित करना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q29",
+    "category": "actions",
+    "keywords": [
+      "actions",
+      "intentions",
+      "karma",
+      "कर्म",
+      "नियत"
+    ],
+    "question_en": "How important are intentions behind actions in the Gita?",
+    "question_hi": "गीता में कर्म के पीछे की नियत कितनी महत्वपूर्ण है?",
+    "answer_en": "Pure intentions purify actions and their results.",
+    "answer_hi": "पवित्र नियत कर्मों और उनके परिणामों को शुद्ध करता है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith arises according to the nature of a person.",
+        "meaning_hi": "व्यक्ति की प्रकृति के अनुसार श्रद्धा उत्पन्न होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q30",
+    "category": "devotion",
+    "keywords": [
+      "devotion",
+      "love",
+      "faith",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "Why is love important in Bhakti Yoga?",
+    "question_hi": "भक्ति योग में प्रेम क्यों महत्वपूर्ण है?",
+    "answer_en": "Love fuels sincere devotion and deepens connection with the divine.",
+    "answer_hi": "प्रेम निःस्वार्थ भक्ति को प्रज्वलित करता है और दिव्य के साथ संबंध गहरा करता है।",
+    "shlokas": [
+      {
+        "chapter": "10",
+        "verse": "10",
+        "shlok": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः।",
+        "meaning_en": "I am the soul, seated in all beings.",
+        "meaning_hi": "मैं आत्मा हूँ, जो सभी प्राणियों के हृदय में विराजमान हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q31",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "duty",
+      "कर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the significance of performing one's duty in the Gita?",
+    "question_hi": "गीता में अपने कर्तव्य का पालन करने का महत्व क्या है?",
+    "answer_en": "Performing one's duty is essential for personal growth and societal harmony.",
+    "answer_hi": "अपने कर्तव्य का पालन व्यक्तिगत विकास और सामाजिक संतुलन के लिए आवश्यक है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "19",
+        "shlok": "तस्मादसक्तः सततं कार्यं कर्म समाचर।",
+        "meaning_en": "Therefore, without attachment, one should perform their duty.",
+        "meaning_hi": "इसलिए, बिना आसक्ति के, अपने कर्तव्य का पालन करना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q32",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "law",
+      "धर्म",
+      "नीति"
+    ],
+    "question_en": "How does the Gita define righteous living?",
+    "question_hi": "गीता में धर्मपूर्ण जीवन को कैसे परिभाषित किया गया है?",
+    "answer_en": "Righteous living is aligning actions with one's dharma and ethical principles.",
+    "answer_hi": "धर्मपूर्ण जीवन अपने धर्म और नैतिक सिद्धांतों के साथ कार्यों को संरेखित करना है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "7",
+        "shlok": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।",
+        "meaning_en": "Whenever there is a decline in righteousness, I manifest myself.",
+        "meaning_hi": "जब भी धर्म में कमी आती है, मैं स्वयं प्रकट होता हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q33",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "love",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "What is the essence of Bhakti Yoga?",
+    "question_hi": "भक्ति योग का सार क्या है?",
+    "answer_en": "The essence of Bhakti Yoga is loving devotion and surrender to God.",
+    "answer_hi": "भक्ति योग का सार भगवान के प्रति प्रेम और समर्पण है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "9",
+        "shlok": "अभ्यासयोगयुक्तेन चित्तं सम्यग् स्थितं।",
+        "meaning_en": "With a mind focused on Me, one can attain peace.",
+        "meaning_hi": "मेरे प्रति ध्यान केंद्रित करके, व्यक्ति शांति प्राप्त कर सकता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q34",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "truth",
+      "ज्ञान",
+      "बोध"
+    ],
+    "question_en": "How does knowledge lead to liberation in the Gita?",
+    "question_hi": "गीता में ज्ञान मुक्ति की ओर कैसे ले जाता है?",
+    "answer_en": "Knowledge dispels ignorance, revealing the true nature of the self.",
+    "answer_hi": "ज्ञान अज्ञानता को दूर करता है, आत्मा की सच्ची प्रकृति को प्रकट करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing as purifying as knowledge.",
+        "meaning_hi": "ज्ञान की तरह शुद्ध करने वाला कुछ भी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q35",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "focus",
+      "ध्यान",
+      "स्मरण"
+    ],
+    "question_en": "What techniques for meditation are suggested in the Gita?",
+    "question_hi": "गीता में ध्यान के लिए कौन सी तकनीकें सुझाई गई हैं?",
+    "answer_en": "Techniques include focusing the mind, controlling the breath, and surrendering to God.",
+    "answer_hi": "तकनीकों में मन को केंद्रित करना, श्वास को नियंत्रित करना और भगवान को समर्पित करना शामिल है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "13",
+        "shlok": "सर्वं समर्पयेदात्मानं यथाकामं च यथाशक्ति।",
+        "meaning_en": "One should sit in a clean place and meditate with a focused mind.",
+        "meaning_hi": "व्यक्ति को एक स्वच्छ स्थान पर बैठकर ध्यान करना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q36",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the path to self-realization in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार का मार्ग क्या है?",
+    "answer_en": "The path involves self-inquiry, meditation, and understanding the eternal self.",
+    "answer_hi": "मार्ग में आत्म-पूछताछ, ध्यान और शाश्वत आत्मा को समझना शामिल है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is neither born nor dies.",
+        "meaning_hi": "आत्मा न कभी उत्पन्न होती है, न कभी नष्ट होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q37",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "peace",
+      "समता",
+      "शांति"
+    ],
+    "question_en": "How does equanimity contribute to spiritual growth?",
+    "question_hi": "समता आध्यात्मिक विकास में कैसे योगदान देती है?",
+    "answer_en": "Equanimity allows one to remain stable amidst life's challenges, fostering growth.",
+    "answer_hi": "समता व्यक्ति को जीवन की चुनौतियों के बीच स्थिर रहने की अनुमति देती है, जिससे विकास होता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "48",
+        "shlok": "योगस्थः कुरु कर्माणि संगं त्यक्त्वा धनंजय।",
+        "meaning_en": "Perform your actions while remaining equanimous.",
+        "meaning_hi": "अपने कर्मों को समता में रहते हुए करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q38",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "What is the role of detachment in the Gita?",
+    "question_hi": "गीता में वैराग्य की क्या भूमिका है?",
+    "answer_en": "Detachment leads to freedom from desires and emotional suffering.",
+    "answer_hi": "वैराग्य इच्छाओं और भावनात्मक पीड़ा से मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "71",
+        "shlok": "ज्ञानी न चास्य प्रज verja संशयस्य कर्ता।",
+        "meaning_en": "The wise are not affected by doubts or attachments.",
+        "meaning_hi": "ज्ञानी संशय और आसक्तियों से प्रभावित नहीं होते।"
+      }
+    ]
+  },
+  {
+    "id": "Q39",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "devotion",
+      "faith",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What does surrender mean in the context of the Gita?",
+    "question_hi": "गीता के संदर्भ में समर्पण का क्या अर्थ है?",
+    "answer_en": "Surrender is complete trust in God and relinquishing the ego.",
+    "answer_hi": "समर्पण भगवान में पूर्ण विश्वास और अहंकार को छोड़ना है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and surrender to Me alone.",
+        "meaning_hi": "सभी धर्मों को छोड़कर केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q40",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "trust",
+      "श्रद्धा",
+      "विश्वास"
+    ],
+    "question_en": "How does faith influence one's spiritual journey?",
+    "question_hi": "श्रद्धा व्यक्ति की आध्यात्मिक यात्रा को कैसे प्रभावित करती है?",
+    "answer_en": "Faith strengthens resolve and guides one towards spiritual truths.",
+    "answer_hi": "श्रद्धा धैर्य को मजबूत करती है और व्यक्ति को आध्यात्मिक सत्य की ओर मार्गदर्शित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith corresponds to the nature of the individual.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q41",
+    "category": "service",
+    "keywords": [
+      "service",
+      "selfless",
+      "charity",
+      "सेवा",
+      "दान"
+    ],
+    "question_en": "What is the importance of selfless service in the Gita?",
+    "question_hi": "गीता में निःस्वार्थ सेवा का महत्व क्या है?",
+    "answer_en": "Selfless service purifies the heart and leads to spiritual growth.",
+    "answer_hi": "निःस्वार्थ सेवा हृदय को शुद्ध करती है और आध्यात्मिक विकास की ओर ले जाती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q42",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What practices lead to inner peace according to the Gita?",
+    "question_hi": "गीता के अनुसार आंतरिक शांति के लिए कौन से अभ्यास आवश्यक हैं?",
+    "answer_en": "Practices include meditation, selfless service, and surrender to God.",
+    "answer_hi": "अभ्यास में ध्यान, निःस्वार्थ सेवा और भगवान को समर्पण शामिल हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष से मुक्त और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q43",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "ultimate",
+      "सत्य",
+      "परम सत्य"
+    ],
+    "question_en": "What is the nature of truth in the Gita?",
+    "question_hi": "गीता में सत्य की प्रकृति क्या है?",
+    "answer_en": "Truth is eternal, unchanging, and the essence of the self.",
+    "answer_hi": "सत्य शाश्वत, अपरिवर्तनीय और आत्मा का सार है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य कभी समाप्त नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q44",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "duty",
+      "जीवन",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the purpose of life according to the Gita?",
+    "question_hi": "गीता के अनुसार जीवन का उद्देश्य क्या है?",
+    "answer_en": "The purpose of life is to realize the self and fulfill one's dharma.",
+    "answer_hi": "जीवन का उद्देश्य आत्मा का बोध करना और अपने धर्म का पालन करना है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits of your actions.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q45",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "control",
+      "focus",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "How does the Gita suggest controlling the mind?",
+    "question_hi": "गीता में मन को नियंत्रित करने के लिए क्या सुझाव दिया गया है?",
+    "answer_en": "The Gita suggests practices like meditation and self-discipline to control the mind.",
+    "answer_hi": "गीता में मन को नियंत्रित करने के लिए ध्यान और आत्म-अनुशासन जैसे अभ्यास सुझाए गए हैं।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "6",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should elevate oneself by one's own mind, not degrade it.",
+        "meaning_hi": "व्यक्ति को अपने मन से स्वयं को ऊँचा उठाना चाहिए, न कि गिराना।"
+      }
+    ]
+  },
+  {
+    "id": "Q46",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "intention",
+      "action",
+      "कर्म",
+      "इरादा"
+    ],
+    "question_en": "How important is intention in the performance of karma?",
+    "question_hi": "कर्म करने में इरादे कितना महत्वपूर्ण हैं?",
+    "answer_en": "Intention determines the ethical value and spiritual impact of an action.",
+    "answer_hi": "इरादा किसी कर्म का नैतिक मूल्य और आध्यात्मिक प्रभाव निर्धारित करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "17",
+        "shlok": "कर्मणा ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।",
+        "meaning_en": "One should understand the difference between action and inaction.",
+        "meaning_hi": "व्यक्ति को कर्म और अकर्म के बीच का अंतर समझना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q47",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "morality",
+      "धर्म",
+      "नीति"
+    ],
+    "question_en": "What is the role of morality in following dharma?",
+    "question_hi": "धर्म का पालन करने में नैतिकता की क्या भूमिका है?",
+    "answer_en": "Morality guides adherence to dharma and fosters harmony.",
+    "answer_hi": "नैतिकता धर्म का पालन करने का मार्गदर्शन करती है और सद्भाव को बढ़ावा देती है।",
+    "shlokas": [
+      {
+        "chapter": "16",
+        "verse": "1",
+        "shlok": "अहिंसा समता तुष्टिः तपः शौचं दमोऽस्तेयम्।",
+        "meaning_en": "Non-violence, equanimity, contentment, and self-control are virtuous.",
+        "meaning_hi": "अहिंसा, समता, संतोष और संयम जैसे गुण श्रेष्ठ हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q48",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "love",
+      "devotion",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "How does love enhance Bhakti?",
+    "question_hi": "प्रेम भक्ति को कैसे बढ़ाता है?",
+    "answer_en": "Love deepens devotion and creates an intimate bond with the divine.",
+    "answer_hi": "प्रेम भक्ति को गहरा करता है और दिव्य के साथ घनिष्ठ संबंध बनाता है।",
+    "shlokas": [
+      {
+        "chapter": "9",
+        "verse": "22",
+        "shlok": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।",
+        "meaning_en": "Those who think of Me constantly, I deliver from all troubles.",
+        "meaning_hi": "जो लोग निरंतर मेरा ही चिंतन करते हैं, उन्हें मैं सभी दुखों से मुक्त करता हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q49",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "discernment",
+      "ज्ञान",
+      "विवेक"
+    ],
+    "question_en": "What is the significance of discernment in spiritual life?",
+    "question_hi": "आध्यात्मिक जीवन में विवेक का महत्व क्या है?",
+    "answer_en": "Discernment helps distinguish the eternal from temporal and guides wise living.",
+    "answer_hi": "विवेक शाश्वत और अस्थायी के बीच अंतर करता है और ज्ञानपूर्ण जीवन की ओर ले जाता है।",
+    "shlokas": [
+      {
+        "chapter": "13",
+        "verse": "33",
+        "shlok": "विद्यावान्नुशोभते सतामेतत् विद्यया प्रकाश्यते।",
+        "meaning_en": "Wise persons are illumined by knowledge.",
+        "meaning_hi": "ज्ञानी लोग ज्ञान से प्रकाशित होते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q50",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mind",
+      "focus",
+      "ध्यान",
+      "एकाग्रता"
+    ],
+    "question_en": "How does meditation influence the mind as per the Gita?",
+    "question_hi": "गीता के अनुसार ध्यान मन को कैसे प्रभावित करता है?",
+    "answer_en": "Meditation steadies the mind and reduces distractions, leading to clarity.",
+    "answer_hi": "ध्यान मन को स्थिर करता है और व्याकुलता को कम करता है, जिससे स्पष्टता आती है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "26",
+        "shlok": "यतो यतो निश्चरति मनश्चञ्चलं स्थिरं भयात्मकम्।",
+        "meaning_en": "Wherever the restless mind wanders, one should bring it back.",
+        "meaning_hi": "जहाँ-जहाँ विक्षिप्त मन विचलित होता है, उसे वापस लाना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q51",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What leads to self-realization in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार की प्राप्ति के लिए क्या आवश्यक है?",
+    "answer_en": "Detachment, knowledge, and devotion collectively lead to self-realization.",
+    "answer_hi": "वैराग्य, ज्ञान और भक्ति मिलकर आत्म-साक्षात्कार की ओर ले जाते हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "20",
+        "shlok": "यत्र तिष्ठन्ति निवसन्ति चार्जुन संततं भक्ताः।",
+        "meaning_en": "Where devotees remain constant in devotion, there is righteousness.",
+        "meaning_hi": "जहाँ भक्त स्थिर रहकर भक्ति करते हैं, वहाँ धर्म होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q52",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "serenity",
+      "समता",
+      "प्रसन्नता"
+    ],
+    "question_en": "Why is equanimity essential in the spiritual path?",
+    "question_hi": "आध्यात्मिक मार्ग में समता क्यों आवश्यक है?",
+    "answer_en": "It fosters mental stability, helping one overcome challenges calmly.",
+    "answer_hi": "यह मानसिक स्थिरता लाती है जिससे व्यक्ति चुनौतियों को शांति से पार करता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "15",
+        "shlok": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ।",
+        "meaning_en": "A person whom such disturbances do not shake is the best among men.",
+        "meaning_hi": "जो पीड़ा उसे विचलित नहीं करती, वह सबसे श्रेष्ठ है।"
+      }
+    ]
+  },
+  {
+    "id": "Q53",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "renunciation",
+      "वैराग्य",
+      "त्याग"
+    ],
+    "question_en": "How does detachment aid spiritual freedom?",
+    "question_hi": "वैराग्य आध्यात्मिक स्वतंत्रता में कैसे सहायता करता है?",
+    "answer_en": "Detachment removes bondage to desires, leading to liberation.",
+    "answer_hi": "वैराग्य इच्छाओं के बंधन को तोड़ता है और मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "5",
+        "verse": "4",
+        "shlok": "कर्म ब्रह्मसंन्यासं प्रारभते न काङ्क्षति।",
+        "meaning_en": "Renouncing the fruits of actions leads to true renunciation.",
+        "meaning_hi": "कर्म के फलों का त्याग सच्चा सन्यास है।"
+      }
+    ]
+  },
+  {
+    "id": "Q54",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "bhakti",
+      "trust",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What benefits does surrender offer in the Gita?",
+    "question_hi": "गीता में समर्पण के क्या लाभ बताए गए हैं?",
+    "answer_en": "Surrender brings solace, protection, and eternal salvation.",
+    "answer_hi": "समर्पण शांति, रक्षा और शाश्वत मुक्ति लाता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all dharmas and take refuge in Me.",
+        "meaning_hi": "सभी धर्मों को छोड़ कर मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q55",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "devotion",
+      "श्रद्धा",
+      "भक्ति"
+    ],
+    "question_en": "How is faith characterized in the Bhagavad Gita?",
+    "question_hi": "भगवद गीता में श्रद्धा को कैसे परिभाषित किया गया है?",
+    "answer_en": "Faith aligns with one's nature and directs spiritual energy.",
+    "answer_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुरूप होती है और आध्यात्मिक ऊर्जा को मार्गदर्शित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith is according to the nature of the individual.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q56",
+    "category": "service",
+    "keywords": [
+      "service",
+      "karma yoga",
+      "help",
+      "सेवा",
+      "कर्म योग"
+    ],
+    "question_en": "Why is service considered important in the Gita?",
+    "question_hi": "गीता में सेवा क्यों महत्वपूर्ण है?",
+    "answer_en": "Service is a way to act selflessly and purify the heart.",
+    "answer_hi": "सेवा निःस्वार्थ कर्म करने और हृदय शुद्ध करने का मार्ग है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "16",
+        "shlok": "एवं सततयुक्ता ये भक्तास्ते मे प्रियाप्रिये।",
+        "meaning_en": "Devoted ones who perform duties are dear to Me.",
+        "meaning_hi": "सदैव कर्मशील भक्त मेरे प्रिय हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q57",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calmness",
+      "शांति",
+      "प्रसन्नता"
+    ],
+    "question_en": "What leads to lasting peace according to the Gita?",
+    "question_hi": "गीता के अनुसार स्थायी शांति कैसे प्राप्त होती है?",
+    "answer_en": "Detachment, meditation, and faith lead to lasting peace.",
+    "answer_hi": "अविरक्ति, ध्यान और श्रद्धा स्थायी शांति लाते हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One without hatred and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष रहित और करुणामय होता है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q58",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "satya",
+      "सत्य",
+      "वास्तविकता"
+    ],
+    "question_en": "What does the Gita teach about ultimate truth?",
+    "question_hi": "गीता में परम सत्य के बारे में क्या बताया गया है?",
+    "answer_en": "Ultimate truth is the unchanging soul beyond the transient world.",
+    "answer_hi": "परम सत्य वह स्थिर आत्मा है जो अस्थायी संसार से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का अस्तित्व नहीं; सत्य सदैव रहता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q59",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "journey",
+      "जीवन",
+      "उद्देश्य"
+    ],
+    "question_en": "What is the spiritual purpose of life according to the Gita?",
+    "question_hi": "गीता के अनुसार जीवन का आध्यात्मिक उद्देश्य क्या है?",
+    "answer_en": "To transcend material attachments and realize the eternal self.",
+    "answer_hi": "भौतिक आसक्तियों से ऊपर उठना और शाश्वत आत्मा को जानना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "22",
+        "shlok": "वासांसि जीर्णानि यथा विहाय...",
+        "meaning_en": "As the body discards old garments, the soul discards worn-out bodies.",
+        "meaning_hi": "जैसे शरीर पुराने वस्त्र छोड़ता है, आत्मा पुराने शरीर छोड़ती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q60",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "control",
+      "focus",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "How can mind control be achieved as per the Gita?",
+    "question_hi": "गीता के अनुसार मन को कैसे नियंत्रित किया जा सकता है?",
+    "answer_en": "Through disciplined practice, detachment, and meditation.",
+    "answer_hi": "अनुशासित अभ्यास, अविरक्ति और ध्यान द्वारा।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "6",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should elevate oneself through the mind, not degrade.",
+        "meaning_hi": "व्यक्ति को अपने मन से स्वयं को ऊंचा उठाना चाहिए, गिराना नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q61",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "selfless",
+      "कर्म",
+      "निःस्वार्थ"
+    ],
+    "question_en": "What does selfless action mean in the Bhagavad Gita?",
+    "question_hi": "भगवद गीता में निःस्वार्थ कर्म का क्या अर्थ है?",
+    "answer_en": "Performing actions without expecting any rewards or outcomes.",
+    "answer_hi": "बिना किसी फल या पुरस्कार की अपेक्षा के कर्म करना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits of your actions.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q62",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "duty",
+      "धर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "How does righteousness influence one's Dharma?",
+    "question_hi": "धर्म में धार्मिकता का क्या प्रभाव होता है?",
+    "answer_en": "Righteousness ensures that Dharma is practiced with integrity and justice.",
+    "answer_hi": "धार्मिकता सुनिश्चित करती है कि धर्म ईमानदारी और न्याय के साथ पालन किया जाए।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "35",
+        "shlok": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।",
+        "meaning_en": "Better to do one's own imperfect duty than another's well.",
+        "meaning_hi": "अपना अधूरा धर्म करना दूसरे का पूरा करने से बेहतर है।"
+      }
+    ]
+  },
+  {
+    "id": "Q63",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "faith",
+      "भक्ति",
+      "श्रद्धा"
+    ],
+    "question_en": "Why is faith crucial in Bhakti Yoga?",
+    "question_hi": "भक्ति योग में श्रद्धा क्यों महत्वपूर्ण है?",
+    "answer_en": "Faith deepens devotion and creates a strong spiritual bond with God.",
+    "answer_hi": "श्रद्धा भक्ति को गहरा करती है और भगवान के साथ मजबूत आध्यात्मिक संबंध बनाती है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "6-7",
+        "shlok": "ये तु धर्म्यानुपस्थितान्भक्तानामात्म्युपासितान्।",
+        "meaning_en": "Those devoted with faith are dear to Me.",
+        "meaning_hi": "श्रद्धापूर्वक भक्तिपूजा करने वाले मुझ प्रिय हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q64",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "enlightenment",
+      "ज्ञान",
+      "प्रबोधन"
+    ],
+    "question_en": "How does knowledge help overcome ignorance?",
+    "question_hi": "ज्ञान अज्ञानता को कैसे दूर करता है?",
+    "answer_en": "It illuminates the truth, dispelling the darkness of ignorance.",
+    "answer_hi": "यह सत्य को प्रकाशित करता है, अज्ञानता के अंधकार को दूर करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing so pure as knowledge.",
+        "meaning_hi": "ज्ञान के समकक्ष इस लोक में कुछ भी शुद्ध नहीं है।"
+      }
+    ]
+  },
+  {
+    "id": "Q65",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "peace",
+      "ध्यान",
+      "शांति"
+    ],
+    "question_en": "What is the benefit of meditation as per the Gita?",
+    "question_hi": "गीता के अनुसार ध्यान से क्या लाभ होता है?",
+    "answer_en": "Meditation calms the mind, leading to inner peace and self-control.",
+    "answer_hi": "ध्यान मन को शांत करता है, आंतरिक शांति और आत्म-नियंत्रण देता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "15",
+        "shlok": "योगिनो तु सर्वलोकाः मुक्तासा माता मृत्युसंकरा:।",
+        "meaning_en": "Yogis are liberated and free from death’s fear.",
+        "meaning_hi": "योगी मुक्त होते हैं और मृत्यु के भय से परे होते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q66",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "spirit",
+      "आत्मा",
+      "साक्षात्कार"
+    ],
+    "question_en": "What signifies self-realization in the Bhagavad Gita?",
+    "question_hi": "भगवद गीता में आत्म-साक्षात्कार का क्या संकेत है?",
+    "answer_en": "Recognizing the self as eternal and distinct from the body.",
+    "answer_hi": "स्वयं को शाश्वत और शरीर से अलग समझना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "13",
+        "shlok": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।",
+        "meaning_en": "Just as the body passes through childhood to old age, so does the soul change bodies.",
+        "meaning_hi": "जैसे शरीर बचपन से बुढ़ापे तक चलता है, वैसे आत्मा शरीर बदलती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q67",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "composure",
+      "mind",
+      "समता",
+      "चित्त"
+    ],
+    "question_en": "How does equanimity help in adversity?",
+    "question_hi": "कठिनाइयों में समता कैसे मदद करती है?",
+    "answer_en": "Equanimity maintains mental balance allowing steady judgements.",
+    "answer_hi": "समता मानसिक संतुलन बनाए रखती है जिससे स्थिर निर्णय लिए जा सकते हैं।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "56",
+        "shlok": "यत् संन्यासस्तु कर्त्तव्यं कर्मोपलब्धये।",
+        "meaning_en": "Renunciation leads to steadiness and peace.",
+        "meaning_hi": "त्याग से स्थिरता और शांति मिलती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q68",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "independence",
+      "वैराग्य",
+      "स्वतंत्रता"
+    ],
+    "question_en": "What is the effect of detachment on desires?",
+    "question_hi": "वैराग्य का इच्छाओं पर क्या प्रभाव होता है?",
+    "answer_en": "Detachment diminishes desires, leading to freedom from suffering.",
+    "answer_hi": "वैराग्य इच्छाओं को कम करता है, जिससे दुःख से मुक्ति मिलती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "70",
+        "shlok": "अपकारशुचौ धर्मे गतस्याऽत्मानमाश्रितः।",
+        "meaning_en": "A detached person remains unshaken amidst opposites.",
+        "meaning_hi": "वैराग्यवान व्यक्ति विपरीत स्थितियों में नहीं डगमगाता।"
+      }
+    ]
+  },
+  {
+    "id": "Q69",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "trust",
+      "God",
+      "समर्पण",
+      "भरोसा"
+    ],
+    "question_en": "How does surrender lead to liberation?",
+    "question_hi": "समर्पण से मुक्ति कैसे प्राप्त होती है?",
+    "answer_en": "Surrender dispels ego and grants God's protection, leading to liberation.",
+    "answer_hi": "समर्पण अहंकार को खत्म करता है और भगवान की रक्षा प्राप्त करता है, जिससे मुक्ति होती है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and surrender unto me alone.",
+        "meaning_hi": "सभी धर्मों को त्याग कर केवल मुझ में शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q70",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "spirituality",
+      "श्रद्धा",
+      "आस्था"
+    ],
+    "question_en": "What is the nature of faith according to the Gita?",
+    "question_hi": "गीता के अनुसार श्रद्धा का स्वरूप क्या है?",
+    "answer_en": "Faith varies according to one's nature and actions, guiding spiritual path.",
+    "answer_hi": "श्रद्धा व्यक्ति की प्रकृति और कर्मों के अनुसार बदलती है, जो आध्यात्मिक मार्ग को निर्देशित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith corresponds to individual nature.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q71",
+    "category": "service",
+    "keywords": [
+      "service",
+      "help",
+      "selflessness",
+      "सेवा",
+      "निःस्वार्थता"
+    ],
+    "question_en": "Why is service considered a path to God?",
+    "question_hi": "सेवा को भगवान तक पहुंचने का मार्ग क्यों माना जाता है?",
+    "answer_en": "Selfless service purifies the heart and brings one closer to the divine.",
+    "answer_hi": "निःस्वार्थ सेवा हृदय को शुद्ध करती है और व्यक्ति को दिव्य के निकट लाती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q72",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "calm",
+      "serenity",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "How can peace be maintained in life?",
+    "question_hi": "जीवन में शांति कैसे बनाये रखी जा सकती है?",
+    "answer_en": "By practicing detachment, meditation, and surrender to God.",
+    "answer_hi": "वैराग्य, ध्यान, और भगवान के समर्पण से शांति बनी रहती है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "15",
+        "shlok": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्।",
+        "meaning_en": "One who is free from attachment and unaffected by good or evil.",
+        "meaning_hi": "जो सभी वस्तुओं से निर्लिप्त हो और शुभ-अशुभ से अप्रभावित हो।"
+      }
+    ]
+  },
+  {
+    "id": "Q73",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "eternal",
+      "ultimate reality",
+      "सत्य",
+      "परम सत्य"
+    ],
+    "question_en": "What is eternal truth in the Gita?",
+    "question_hi": "गीता में शाश्वत सत्य क्या है?",
+    "answer_en": "The soul’s eternal nature beyond birth and death is the true reality.",
+    "answer_hi": "आत्मा की जन्म और मृत्यु से परे शाश्वत प्रकृति ही असली सत्य है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is not born nor does it die.",
+        "meaning_hi": "आत्मा न जन्मती है, न मरती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q74",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "mission",
+      "जीवन",
+      "उद्देश्य"
+    ],
+    "question_en": "What mission does the Gita assign to life?",
+    "question_hi": "गीता जीवन को क्या मिशन देती है?",
+    "answer_en": "To perform righteous duties and realize the true self while detached.",
+    "answer_hi": "धार्मिक कर्तव्य करना तथा बिना आसक्ति के सच्ची आत्मा को जानना।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "7",
+        "shlok": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।",
+        "meaning_en": "Action for sacrifice frees from bondage, other actions bind.",
+        "meaning_hi": "बलिदान के लिए किया हुआ कर्म बंधन से मुक्त करता है, अन्य कर्म बंधन करते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q75",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "discipline",
+      "control",
+      "मन",
+      "अनुशासन"
+    ],
+    "question_en": "How should one discipline the mind per the Gita?",
+    "question_hi": "गीता के अनुसार मन को कैसे अनुशासित करना चाहिए?",
+    "answer_en": "By steady focus, meditation and detachment from distractions.",
+    "answer_hi": "स्थिर ध्यान और विकर्षणों से विमुक्ति से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "5",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should uplift oneself with the mind, not degrade.",
+        "meaning_hi": "मन से स्वयं को ऊपर उठाओ, नीचे मत गिराओ।"
+      }
+    ]
+  },
+  {
+    "id": "Q76",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "duty",
+      "कर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the relationship between action and duty in the Gita?",
+    "question_hi": "गीता में कर्म और कर्तव्य के बीच क्या संबंध है?",
+    "answer_en": "Action is the means to fulfill one's duty and achieve spiritual growth.",
+    "answer_hi": "कर्म अपने कर्तव्य को पूरा करने और आध्यात्मिक विकास प्राप्त करने का साधन है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "19",
+        "shlok": "तस्मादसक्तः सततं कार्यं कर्म समाचर।",
+        "meaning_en": "Therefore, without attachment, one should perform their duty.",
+        "meaning_hi": "इसलिए, बिना आसक्ति के, अपने कर्तव्य का पालन करना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q77",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "law",
+      "धर्म",
+      "नीति"
+    ],
+    "question_en": "How does the Gita define the concept of Dharma?",
+    "question_hi": "गीता में धर्म की अवधारणा को कैसे परिभाषित किया गया है?",
+    "answer_en": "Dharma is the moral and ethical duty that upholds cosmic order.",
+    "answer_hi": "धर्म वह नैतिक और नैतिक कर्तव्य है जो ब्रह्मांडीय व्यवस्था को बनाए रखता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "31",
+        "shlok": "धर्म्याद्धर्मं नित्यं च धर्मं च धर्म्यं च।",
+        "meaning_en": "Performing one's duty is the essence of Dharma.",
+        "meaning_hi": "अपने कर्तव्य का पालन करना धर्म का सार है।"
+      }
+    ]
+  },
+  {
+    "id": "Q78",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "love",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "What is the significance of devotion in the Gita?",
+    "question_hi": "गीता में भक्ति का महत्व क्या है?",
+    "answer_en": "Devotion is the path to connect with the divine and attain liberation.",
+    "answer_hi": "भक्ति दिव्य से जुड़ने और मुक्ति प्राप्त करने का मार्ग है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "9",
+        "shlok": "अभ्यासयोगयुक्तेन चित्तं सम्यग् स्थितं।",
+        "meaning_en": "With a mind focused on Me, one can attain peace.",
+        "meaning_hi": "मेरे प्रति ध्यान केंद्रित करके, व्यक्ति शांति प्राप्त कर सकता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q79",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "truth",
+      "ज्ञान",
+      "सत्य"
+    ],
+    "question_en": "How does knowledge lead to spiritual awakening?",
+    "question_hi": "ज्ञान आध्यात्मिक जागृति की ओर कैसे ले जाता है?",
+    "answer_en": "Knowledge reveals the true nature of reality, leading to enlightenment.",
+    "answer_hi": "ज्ञान वास्तविकता की सच्ची प्रकृति को प्रकट करता है, जिससे प्रबोधन होता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing as purifying as knowledge.",
+        "meaning_hi": "ज्ञान की तरह शुद्ध करने वाला कुछ भी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q80",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "focus",
+      "ध्यान",
+      "एकाग्रता"
+    ],
+    "question_en": "What role does meditation play in the Gita?",
+    "question_hi": "गीता में ध्यान की क्या भूमिका है?",
+    "answer_en": "Meditation helps control the mind and fosters inner peace.",
+    "answer_hi": "ध्यान मन को नियंत्रित करने में मदद करता है और आंतरिक शांति को बढ़ावा देता है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "10",
+        "shlok": "योगयुक्तात्मा विमुक्तसङ्गः।",
+        "meaning_en": "One united with yoga is free from attachment.",
+        "meaning_hi": "योगयुक्त आत्मा बिना आसक्ति के होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q81",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the essence of self-realization in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार का सार क्या है?",
+    "answer_en": "Self-realization is understanding the eternal self beyond the physical body.",
+    "answer_hi": "आत्म-साक्षात्कार शारीरिक शरीर से परे शाश्वत आत्मा को समझना है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul neither is born nor dies.",
+        "meaning_hi": "आत्मा न कभी उत्पन्न होती है, न कभी नष्ट होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q82",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "peace",
+      "समता",
+      "शांति"
+    ],
+    "question_en": "How does equanimity contribute to spiritual growth?",
+    "question_hi": "समता आध्यात्मिक विकास में कैसे योगदान देती है?",
+    "answer_en": "Equanimity allows one to remain stable amidst life's challenges.",
+    "answer_hi": "समता व्यक्ति को जीवन की चुनौतियों के बीच स्थिर रहने की अनुमति देती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "48",
+        "shlok": "योगस्थः कुरु कर्माणि संगं त्यक्त्वा धनंजय।",
+        "meaning_en": "Perform your actions while remaining equanimous.",
+        "meaning_hi": "अपने कर्मों को समता में रहते हुए करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q83",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "What is the significance of detachment in the Gita?",
+    "question_hi": "गीता में वैराग्य का महत्व क्या है?",
+    "answer_en": "Detachment frees one from the bondage of desires and emotional turmoil.",
+    "answer_hi": "वैराग्य इच्छाओं और भावनात्मक अशांति के बंधन से मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "71",
+        "shlok": "ज्ञानी न चास्य प्रज verja संशयस्य कर्ता।",
+        "meaning_en": "The wise are not affected by doubts or attachments.",
+        "meaning_hi": "ज्ञानी संशय और आसक्तियों से प्रभावित नहीं होते।"
+      }
+    ]
+  },
+  {
+    "id": "Q84",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "devotion",
+      "faith",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What does surrender mean in the context of the Gita?",
+    "question_hi": "गीता के संदर्भ में समर्पण का क्या अर्थ है?",
+    "answer_en": "Surrender is complete trust in God and relinquishing the ego.",
+    "answer_hi": "समर्पण भगवान में पूर्ण विश्वास और अहंकार को छोड़ना है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and surrender to Me alone.",
+        "meaning_hi": "सभी धर्मों को छोड़कर केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q85",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "trust",
+      "श्रद्धा",
+      "विश्वास"
+    ],
+    "question_en": "How does faith influence one's spiritual journey?",
+    "question_hi": "श्रद्धा व्यक्ति की आध्यात्मिक यात्रा को कैसे प्रभावित करती है?",
+    "answer_en": "Faith strengthens resolve and guides one towards spiritual truths.",
+    "answer_hi": "श्रद्धा धैर्य को मजबूत करती है और व्यक्ति को आध्यात्मिक सत्य की ओर मार्गदर्शित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith arises according to the nature of a person.",
+        "meaning_hi": "व्यक्ति की प्रकृति के अनुसार श्रद्धा उत्पन्न होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q86",
+    "category": "service",
+    "keywords": [
+      "service",
+      "selfless",
+      "charity",
+      "सेवा",
+      "दान"
+    ],
+    "question_en": "What is the importance of selfless service in the Gita?",
+    "question_hi": "गीता में निःस्वार्थ सेवा का महत्व क्या है?",
+    "answer_en": "Selfless service purifies the heart and leads to spiritual growth.",
+    "answer_hi": "निःस्वार्थ सेवा हृदय को शुद्ध करती है और आध्यात्मिक विकास की ओर ले जाती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q87",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What practices lead to inner peace according to the Gita?",
+    "question_hi": "गीता के अनुसार आंतरिक शांति के लिए कौन से अभ्यास आवश्यक हैं?",
+    "answer_en": "Practices include meditation, selfless service, and surrender to God.",
+    "answer_hi": "अभ्यास में ध्यान, निःस्वार्थ सेवा और भगवान को समर्पण शामिल हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष से मुक्त और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q88",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "satya",
+      "reality",
+      "सत्य",
+      "वास्तविकता"
+    ],
+    "question_en": "What is the nature of truth in the Gita?",
+    "question_hi": "गीता में सत्य की प्रकृति क्या है?",
+    "answer_en": "Truth is eternal, unchanging, and the essence of the self.",
+    "answer_hi": "सत्य शाश्वत, अपरिवर्तनीय और आत्मा का सार है।",
+    "shlokas": [
+      {
+        "chapter": "10",
+        "verse": "16",
+        "shlok": "सत्यं ब्रूयात्प्रियं ब्रूयाद्वै वान्न ब्रूयात्सत्यम्।",
+        "meaning_en": "Speak the truth in a pleasant manner; do not speak harsh truths.",
+        "meaning_hi": "सत्य बोलो, परन्तु प्रियतया; कठोर सत्य मत बोलो।"
+      }
+    ]
+  },
+  {
+    "id": "Q89",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "duty",
+      "जीवन",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the purpose of life according to the Gita?",
+    "question_hi": "गीता के अनुसार जीवन का उद्देश्य क्या है?",
+    "answer_en": "To realize the self and fulfill one’s dharma with detachment.",
+    "answer_hi": "आत्मा का बोध करना और बिना आसक्ति के अपने धर्म का पालन करना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits of your actions.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q90",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "control",
+      "discipline",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "How can one control the mind as per the Gita?",
+    "question_hi": "गीता के अनुसार मन को कैसे नियंत्रित किया जा सकता है?",
+    "answer_en": "Through disciplined practice, meditation, and detachment from distractions.",
+    "answer_hi": "अनुशासित अभ्यास, ध्यान और विकर्षणों से विमुक्ति से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "6",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should elevate oneself through the mind, not degrade.",
+        "meaning_hi": "व्यक्ति को अपने मन से स्वयं को ऊँचा उठाना चाहिए, न कि गिराना।"
+      }
+    ]
+  },
+  {
+    "id": "Q91",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "duty",
+      "कर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the effect of performing actions without attachment according to the Gita?",
+    "question_hi": "गीता के अनुसार बिना आसक्ति के कर्म करने का क्या प्रभाव होता है?",
+    "answer_en": "Performing actions without attachment frees one from the bondage of karma and leads to peace.",
+    "answer_hi": "बिना आसक्ति के कर्म करने से व्यक्ति कर्म के बंधन से मुक्त होता है और शांति प्राप्त करता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "50",
+        "shlok": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।",
+        "meaning_en": "The wise discard both good and bad karma through wisdom.",
+        "meaning_hi": "ज्ञानयोगी व्यक्ति अच्छे और बुरे कर्म दोनों को त्याग देता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q92",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "duty",
+      "धर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "How important is it to follow one's own dharma?",
+    "question_hi": "अपने धर्म का पालन करना कितना महत्वपूर्ण है?",
+    "answer_en": "Following one's own dharma, even imperfectly, is better than performing another's dharma perfectly.",
+    "answer_hi": "अपना धर्म अधूरा करना दूसरे का धर्म पूरा करने से बेहतर है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "35",
+        "shlok": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।",
+        "meaning_en": "It is better to do one’s own duty imperfectly than another’s well.",
+        "meaning_hi": "अपना अधूरा धर्म करना दूसरों का पूरा धर्म करने से श्रेष्ठ है।"
+      }
+    ]
+  },
+  {
+    "id": "Q93",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "love",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "What characteristics define a true devotee?",
+    "question_hi": "सच्चे भक्त की क्या विशेषताएँ होती हैं?",
+    "answer_en": "A true devotee is free from envy, compassionate, and devoted with unwavering faith.",
+    "answer_hi": "सच्चा भक्त द्वेष रहित, करुणामय, और अटूट श्रद्धा वाला होता है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष रहित और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q94",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "discrimination",
+      "ज्ञान",
+      "विवेक"
+    ],
+    "question_en": "How does discrimination aid spiritual development?",
+    "question_hi": "विवेक आध्यात्मिक विकास में कैसे सहायक है?",
+    "answer_en": "Discrimination helps distinguish between the eternal and the temporary, leading to liberation.",
+    "answer_hi": "विवेक स्थायी और अस्थायी के बीच अंतर करने में मदद करता है, जो मुक्ति की ओर ले जाता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "28",
+        "shlok": "विद्यावान्यस्य तु धर्मस्य स्थितो हि अभिधीयते।",
+        "meaning_en": "One established in knowledge is said to be in the true Dharma.",
+        "meaning_hi": "ज्ञान में स्थित व्यक्ति को असली धर्म में माना जाता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q95",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mind control",
+      "peace",
+      "ध्यान",
+      "शांति"
+    ],
+    "question_en": "What is the ultimate goal of meditation in the Gita?",
+    "question_hi": "गीता में ध्यान का परम लक्ष्य क्या है?",
+    "answer_en": "The ultimate goal is to attain peace and realize oneness with the Supreme.",
+    "answer_hi": "परम लक्ष्य शांति प्राप्त करना और परमात्मा के साथ एकत्व का अनुभव करना है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "15",
+        "shlok": "यत् चित्ते स्थितं नित्यं वितरागं रसिकम्।",
+        "meaning_en": "One should meditate with a mind fixed and free from desires.",
+        "meaning_hi": "मन को स्थिर और इच्छाएं रहित करके ध्यान करना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q96",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the essence of self-realization in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार का सार क्या है?",
+    "answer_en": "Understanding that the soul is eternal and beyond physical change is self-realization.",
+    "answer_hi": "यह समझना कि आत्मा शाश्वत है और शारीरिक परिवर्तन से परे है, आत्म-साक्षात्कार है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is neither born nor dies.",
+        "meaning_hi": "आत्मा न कभी उत्पन्न होती है, न कभी नष्ट होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q97",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "mind",
+      "समता",
+      "चेतना"
+    ],
+    "question_en": "Why is equanimity important for the mind?",
+    "question_hi": "मन के लिए समता क्यों महत्वपूर्ण है?",
+    "answer_en": "Equanimity steadies the mind amidst challenges and distractions.",
+    "answer_hi": "समता चुनौतियों और विकर्षणों के बीच मन को स्थिर करती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "56",
+        "shlok": "यत् प्रसन्नं मनः कृत्स्नदृष्टिं विलीनीन्द्रियः।",
+        "meaning_en": "A tranquil mind with steady vision is self-sovereign.",
+        "meaning_hi": "स्थिर दृष्टि वाला शांति मन आत्म-स्वामी होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q98",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "स्वतंत्रता"
+    ],
+    "question_en": "How does detachment affect one’s desires?",
+    "question_hi": "अविरक्ति व्यक्ति की इच्छाओं को कैसे प्रभावित करती है?",
+    "answer_en": "Detachment reduces desires, freeing the mind from suffering.",
+    "answer_hi": "अविरक्ति इच्छाओं को कम करती है, मन को दुःख से मुक्त करती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "71",
+        "shlok": "ज्ञानी न चास्य प्रज verja संशयस्य कर्ता।",
+        "meaning_en": "The wise are free from doubts and attachments.",
+        "meaning_hi": "ज्ञानी संशय और लगाव से मुक्त होते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q99",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "faith",
+      "trust",
+      "समर्पण",
+      "श्रद्धा"
+    ],
+    "question_en": "What benefits does surrender offer according to the Gita?",
+    "question_hi": "गीता के अनुसार समर्पण से क्या लाभ होते हैं?",
+    "answer_en": "Surrender brings protection, peace, and liberation.",
+    "answer_hi": "समर्पण सुरक्षा, शांति और मुक्ति लाता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all dharmas and take refuge in Me.",
+        "meaning_hi": "सभी धर्मों को त्यागकर मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q100",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "spirituality",
+      "श्रद्धा",
+      "आस्था"
+    ],
+    "question_en": "Why is faith essential in spirituality?",
+    "question_hi": "आध्यात्म में श्रद्धा क्यों आवश्यक है?",
+    "answer_en": "Faith builds confidence and sustains spiritual practice.",
+    "answer_hi": "श्रद्धा आत्मविश्वास बनाती है और आध्यात्मिक अभ्यास को बनाए रखती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith corresponds to one's nature.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुसार होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q101",
+    "category": "service",
+    "keywords": [
+      "service",
+      "helping",
+      "selflessness",
+      "सेवा",
+      "निःस्वार्थ"
+    ],
+    "question_en": "How does selfless service purify the heart?",
+    "question_hi": "निःस्वार्थ सेवा हृदय को कैसे शुद्ध करती है?",
+    "answer_en": "By focusing on others without desire, one cleanses the mind and soul.",
+    "answer_hi": "दूसरों पर ध्यान देकर बिना इच्छा के व्यक्ति मन और आत्मा को शुद्ध करता है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित कर करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q102",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "calm",
+      "serenity",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What is the foundation of lasting peace?",
+    "question_hi": "स्थायी शांति की नींव क्या है?",
+    "answer_en": "Detachment, meditation, and surrender to God build lasting peace.",
+    "answer_hi": "वैराग्य, ध्यान और भगवान को समर्पण स्थायी शांति लाते हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "15",
+        "shlok": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।",
+        "meaning_en": "One who neither rejoices nor hates is said to have steady wisdom.",
+        "meaning_hi": "जो आनंदित या द्वेषी नहीं होता, वह स्थिर ज्ञान वाला है।"
+      }
+    ]
+  },
+  {
+    "id": "Q103",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "satya",
+      "reality",
+      "सत्य",
+      "परम"
+    ],
+    "question_en": "What is the supreme truth in the Gita?",
+    "question_hi": "गीता में परम सत्य क्या है?",
+    "answer_en": "The eternal soul beyond birth and death is the supreme truth.",
+    "answer_hi": "जन्म और मृत्यु से परे शाश्वत आत्मा परम सत्य है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "25",
+        "shlok": "अव्यक्तादीनि भूता नित्यस्याश्च शरीरिणः।",
+        "meaning_en": "Unmanifest and eternal, the soul is never destroyed.",
+        "meaning_hi": "अव्यक्त और शाश्वत आत्मा कभी नष्ट नहीं होती।"
+      }
+    ]
+  },
+  {
+    "id": "Q104",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "duty",
+      "जीवन",
+      "उद्देश्य"
+    ],
+    "question_en": "What is the ultimate purpose of life according to the Gita?",
+    "question_hi": "गीता के अनुसार जीवन का अंतिम उद्देश्य क्या है?",
+    "answer_en": "The ultimate purpose is to realize the self and fulfill one's dharma.",
+    "answer_hi": "अंतिम उद्देश्य आत्मा का बोध करना और अपने धर्म का पालन करना है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits of your actions.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, उसके फलों में कभी नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q105",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "control",
+      "discipline",
+      "मन",
+      "नियंत्रण"
+    ],
+    "question_en": "How can one achieve mastery over the mind as per the Gita?",
+    "question_hi": "गीता के अनुसार मन पर नियंत्रण कैसे प्राप्त किया जा सकता है?",
+    "answer_en": "Through disciplined practice, meditation, and self-awareness.",
+    "answer_hi": "अनुशासित अभ्यास, ध्यान और आत्म-जागरूकता के माध्यम से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "6",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should elevate oneself through the mind, not degrade.",
+        "meaning_hi": "व्यक्ति को अपने मन से स्वयं को ऊँचा उठाना चाहिए, न कि गिराना।"
+      }
+    ]
+  },
+  {
+    "id": "Q106",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "duty",
+      "कर्म",
+      "कर्तव्य"
+    ],
+    "question_en": "What is the significance of performing one's duty in the Gita?",
+    "question_hi": "गीता में अपने कर्तव्य का पालन करने का महत्व क्या है?",
+    "answer_en": "Performing one's duty is essential for personal growth and societal harmony.",
+    "answer_hi": "अपने कर्तव्य का पालन व्यक्तिगत विकास और सामाजिक संतुलन के लिए आवश्यक है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "19",
+        "shlok": "तस्मादसक्तः सततं कार्यं कर्म समाचर।",
+        "meaning_en": "Therefore, without attachment, one should perform their duty.",
+        "meaning_hi": "इसलिए, बिना आसक्ति के, अपने कर्तव्य का पालन करना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q107",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "law",
+      "धर्म",
+      "नीति"
+    ],
+    "question_en": "What is the relationship between dharma and righteousness in the Gita?",
+    "question_hi": "गीता में धर्म और धार्मिकता के बीच क्या संबंध है?",
+    "answer_en": "Dharma is the foundation of righteousness, guiding ethical behavior.",
+    "answer_hi": "धर्म धार्मिकता का आधार है, जो नैतिक व्यवहार को मार्गदर्शित करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "7",
+        "shlok": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।",
+        "meaning_en": "Whenever there is a decline in righteousness, I manifest myself.",
+        "meaning_hi": "जब भी धर्म में कमी आती है, मैं स्वयं प्रकट होता हूँ।"
+      }
+    ]
+  },
+  {
+    "id": "Q108",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "love",
+      "भक्ति",
+      "प्रेम"
+    ],
+    "question_en": "How does Bhakti Yoga differ from other paths?",
+    "question_hi": "भक्ति योग अन्य मार्गों से कैसे भिन्न है?",
+    "answer_en": "Bhakti Yoga emphasizes love and devotion towards God as the primary means of realization.",
+    "answer_hi": "भक्ति योग भगवान के प्रति प्रेम और भक्ति को आत्मज्ञान का मुख्य साधन मानता है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "6",
+        "shlok": "ये तु धर्म्यानुपस्थितान्भक्तानामात्म्युपासितान्।",
+        "meaning_en": "Those devoted with faith are dear to Me.",
+        "meaning_hi": "श्रद्धापूर्वक भक्तिपूजा करने वाले मुझ प्रिय हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q109",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "wisdom",
+      "truth",
+      "ज्ञान",
+      "सत्य"
+    ],
+    "question_en": "What is the role of knowledge in spiritual growth?",
+    "question_hi": "आध्यात्मिक विकास में ज्ञान की क्या भूमिका है?",
+    "answer_en": "Knowledge dispels ignorance and illuminates the path to self-realization.",
+    "answer_hi": "ज्ञान अज्ञानता को दूर करता है और आत्म-साक्षात्कार के मार्ग को प्रकाशित करता है।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing as purifying as knowledge.",
+        "meaning_hi": "ज्ञान के समकक्ष इस लोक में कुछ भी शुद्ध नहीं है।"
+      }
+    ]
+  },
+  {
+    "id": "Q110",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "focus",
+      "ध्यान",
+      "एकाग्रता"
+    ],
+    "question_en": "What techniques for meditation are suggested in the Gita?",
+    "question_hi": "गीता में ध्यान के लिए कौन सी तकनीकें सुझाई गई हैं?",
+    "answer_en": "Techniques include focusing the mind, controlling the breath, and surrendering to God.",
+    "answer_hi": "तकनीकों में मन को केंद्रित करना, श्वास को नियंत्रित करना और भगवान को समर्पित करना शामिल है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "10",
+        "shlok": "योगयुक्तात्मा विमुक्तसङ्गः।",
+        "meaning_en": "One united with yoga is free from attachment.",
+        "meaning_hi": "योगयुक्त आत्मा बिना आसक्ति के होता है।"
+      }
+    ]
+  },
+  {
+    "id": "Q111",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "atma",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What leads to self-realization in the Gita?",
+    "question_hi": "गीता में आत्म-साक्षात्कार की प्राप्ति के लिए क्या आवश्यक है?",
+    "answer_en": "The path involves self-inquiry, meditation, and understanding the eternal self.",
+    "answer_hi": "मार्ग में आत्म-पूछताछ, ध्यान और शाश्वत आत्मा को समझना शामिल है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is neither born nor dies.",
+        "meaning_hi": "आत्मा न कभी उत्पन्न होती है, न कभी नष्ट होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q112",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "peace",
+      "समता",
+      "शांति"
+    ],
+    "question_en": "How does equanimity contribute to spiritual growth?",
+    "question_hi": "समता आध्यात्मिक विकास में कैसे योगदान देती है?",
+    "answer_en": "Equanimity allows one to remain stable amidst life's challenges.",
+    "answer_hi": "समता व्यक्ति को जीवन की चुनौतियों के बीच स्थिर रहने की अनुमति देती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "48",
+        "shlok": "योगस्थः कुरु कर्माणि संगं त्यक्त्वा धनंजय।",
+        "meaning_en": "Perform your actions while remaining equanimous.",
+        "meaning_hi": "अपने कर्मों को समता में रहते हुए करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q113",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "What is the role of detachment in the Gita?",
+    "question_hi": "गीता में वैराग्य की क्या भूमिका है?",
+    "answer_en": "Detachment leads to freedom from desires and emotional suffering.",
+    "answer_hi": "वैराग्य इच्छाओं और भावनात्मक पीड़ा से मुक्ति देता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "71",
+        "shlok": "ज्ञानी न चास्य प्रज verja संशयस्य कर्ता।",
+        "meaning_en": "The wise are not affected by doubts or attachments.",
+        "meaning_hi": "ज्ञानी संशय और आसक्तियों से प्रभावित नहीं होते।"
+      }
+    ]
+  },
+  {
+    "id": "Q114",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "trust",
+      "God",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "What does surrender mean in the context of the Gita?",
+    "question_hi": "गीता के संदर्भ में समर्पण का क्या अर्थ है?",
+    "answer_en": "Surrender is complete trust in God and relinquishing the ego.",
+    "answer_hi": "समर्पण भगवान में पूर्ण विश्वास और अहंकार को छोड़ना है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Abandon all duties and surrender to Me alone.",
+        "meaning_hi": "सभी धर्मों को छोड़कर केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q115",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "devotion",
+      "श्रद्धा",
+      "भक्ति"
+    ],
+    "question_en": "How does faith influence one's spiritual journey?",
+    "question_hi": "श्रद्धा व्यक्ति की आध्यात्मिक यात्रा को कैसे प्रभावित करती है?",
+    "answer_en": "Faith strengthens resolve and guides one towards spiritual truths.",
+    "answer_hi": "श्रद्धा धैर्य को मजबूत करती है और व्यक्ति को आध्यात्मिक सत्य की ओर मार्गदर्शित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith arises according to the nature of a person.",
+        "meaning_hi": "व्यक्ति की प्रकृति के अनुसार श्रद्धा उत्पन्न होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q116",
+    "category": "service",
+    "keywords": [
+      "service",
+      "selfless",
+      "charity",
+      "सेवा",
+      "दान"
+    ],
+    "question_en": "What is the importance of selfless service in the Gita?",
+    "question_hi": "गीता में निःस्वार्थ सेवा का महत्व क्या है?",
+    "answer_en": "Selfless service purifies the heart and leads to spiritual growth.",
+    "answer_hi": "निःस्वार्थ सेवा हृदय को शुद्ध करती है और आध्यात्मिक विकास की ओर ले जाती है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Dedicate all actions to Me with a focused mind.",
+        "meaning_hi": "सभी कर्मों को मुझमें समर्पित करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q117",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "संतोष"
+    ],
+    "question_en": "What practices lead to inner peace according to the Gita?",
+    "question_hi": "गीता के अनुसार आंतरिक शांति के लिए कौन से अभ्यास आवश्यक हैं?",
+    "answer_en": "Practices include meditation, selfless service, and surrender to God.",
+    "answer_hi": "अभ्यास में ध्यान, निःस्वार्थ सेवा और भगवान को समर्पण शामिल हैं।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One who is free from malice and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष से मुक्त और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q118",
+    "category": "truth",
+    "keywords": [
+      "truth",
+      "reality",
+      "ultimate",
+      "सत्य",
+      "परम सत्य"
+    ],
+    "question_en": "What is the ultimate reality described in the Gita?",
+    "question_hi": "गीता में परम सत्य क्या बताया गया है?",
+    "answer_en": "The ultimate reality is the eternal, unchanging soul beyond the material world.",
+    "answer_hi": "परम सत्य शाश्वत और स्थिर आत्मा है जो भौतिक जगत से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "16",
+        "shlok": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+        "meaning_en": "The unreal has no existence; the real never ceases to be.",
+        "meaning_hi": "असत्य का कोई अस्तित्व नहीं; सत्य कभी समाप्त नहीं होता।"
+      }
+    ]
+  },
+  {
+    "id": "Q119",
+    "category": "life",
+    "keywords": [
+      "life",
+      "purpose",
+      "goal",
+      "जीवन",
+      "उद्देश्य"
+    ],
+    "question_en": "What is the goal of human life according to the Bhagavad Gita?",
+    "question_hi": "भगवद गीता के अनुसार मानव जीवन का लक्ष्य क्या है?",
+    "answer_en": "To realize one's true self and attain union with the divine.",
+    "answer_hi": "अपनी सच्ची आत्मा को पहचानना और दिव्य के साथ एकता प्राप्त करना।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "22",
+        "shlok": "वासांसि जीर्णानि यथा विहाय...",
+        "meaning_en": "Just as the body sheds worn-out clothes, so does the soul shed the worn-out body.",
+        "meaning_hi": "जैसे शरीर पुराने वस्त्रों को छोड़ता है, वैसे ही आत्मा पुराने शरीर को छोड़ती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q120",
+    "category": "mind",
+    "keywords": [
+      "mind",
+      "power",
+      "discipline",
+      "मन",
+      "अनुशासन"
+    ],
+    "question_en": "How does one gain mastery over the mind in the Gita?",
+    "question_hi": "गीता में व्यक्ति मन पर कैसे अधिकार प्राप्त कर सकता है?",
+    "answer_en": "Through consistent practice, detachment, and focused meditation.",
+    "answer_hi": "निरंतर अभ्यास, वैराग्य और केंद्रित ध्यान से।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "5",
+        "shlok": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।",
+        "meaning_en": "One should uplift oneself by one's own mind, not degrade it.",
+        "meaning_hi": "व्यक्ति को अपने मन से स्वयं को उठाना चाहिए न कि गिराना।"
+      }
+    ]
+  },
+  {
+    "id": "Q121",
+    "category": "karma",
+    "keywords": [
+      "karma",
+      "action",
+      "fruit",
+      "कर्म",
+      "फल"
+    ],
+    "question_en": "Why does the Gita emphasize performing actions without attachment to results?",
+    "question_hi": "गीता कर्मों को फल की इच्छा के बिना करने पर जोर क्यों देती है?",
+    "answer_en": "Because attachment leads to bondage, while detachment brings freedom.",
+    "answer_hi": "क्योंकि लगाव बंधन लाता है, जबकि असंगता स्वतंत्रता प्रदान करती है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "47",
+        "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।",
+        "meaning_en": "You have a right to perform your duties, but not to the fruits thereof.",
+        "meaning_hi": "तुम्हारा अधिकार केवल कर्म करने में है, इसके फलों में नहीं।"
+      }
+    ]
+  },
+  {
+    "id": "Q122",
+    "category": "dharma",
+    "keywords": [
+      "dharma",
+      "righteousness",
+      "moral",
+      "धर्म",
+      "नैतिकता"
+    ],
+    "question_en": "How is dharma described as a guiding principle?",
+    "question_hi": "धर्म को मार्गदर्शक सिद्धांत के रूप में कैसे वर्णित किया गया है?",
+    "answer_en": "Dharma is the path of righteous living that sustains order.",
+    "answer_hi": "धर्म सही जीवन का मार्ग है जो व्यवस्था बनाए रखता है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "35",
+        "shlok": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।",
+        "meaning_en": "Better to do one's own imperfect duty than another's well.",
+        "meaning_hi": "अपना अधूरा धर्म करना दूसरे के सही धर्म करने से श्रेष्ठ है।"
+      }
+    ]
+  },
+  {
+    "id": "Q123",
+    "category": "bhakti",
+    "keywords": [
+      "bhakti",
+      "devotion",
+      "faith",
+      "भक्ति",
+      "श्रद्धा"
+    ],
+    "question_en": "What are the qualities of a true devotee?",
+    "question_hi": "सच्चे भक्त की क्या विशेषताएँ होती हैं?",
+    "answer_en": "A true devotee is compassionate, forgiving, and steadfast in faith.",
+    "answer_hi": "सच्चा भक्त दयालु, क्षमाशील और श्रद्धावान होता है।",
+    "shlokas": [
+      {
+        "chapter": "12",
+        "verse": "13-14",
+        "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।",
+        "meaning_en": "One without hatred and full of compassion is dear to Me.",
+        "meaning_hi": "जो द्वेष रहित और करुणामय है, वह मुझको प्रिय है।"
+      }
+    ]
+  },
+  {
+    "id": "Q124",
+    "category": "knowledge",
+    "keywords": [
+      "knowledge",
+      "enlightenment",
+      "truth",
+      "ज्ञान",
+      "प्रबोधन"
+    ],
+    "question_en": "How does knowledge lead to liberation?",
+    "question_hi": "ज्ञान मुक्ति की ओर कैसे ले जाता है?",
+    "answer_en": "By removing ignorance and showing the eternal nature of the soul.",
+    "answer_hi": "अज्ञानता को दूर करके और आत्मा की शाश्वत प्रकृति को दिखाकर।",
+    "shlokas": [
+      {
+        "chapter": "4",
+        "verse": "38",
+        "shlok": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+        "meaning_en": "There is nothing as purifying as knowledge.",
+        "meaning_hi": "ज्ञान के समान इस संसार में कुछ भी शुद्ध नहीं है।"
+      }
+    ]
+  },
+  {
+    "id": "Q125",
+    "category": "meditation",
+    "keywords": [
+      "meditation",
+      "mindfulness",
+      "focus",
+      "ध्यान",
+      "एकाग्रता"
+    ],
+    "question_en": "What is the role of focus in meditation?",
+    "question_hi": "ध्यान में एकाग्रता की भूमिका क्या है?",
+    "answer_en": "Focus stills the mind, enabling deep connection with the divine.",
+    "answer_hi": "एकाग्रता मन को शांत करती है और दिव्य से गहरा संबंध स्थापित करती है।",
+    "shlokas": [
+      {
+        "chapter": "6",
+        "verse": "26",
+        "shlok": "यतो यतो निश्चरति मनश्चञ्चलं स्थिरं भयात्मकम्।",
+        "meaning_en": "Wherever the restless mind wanders, bring it back.",
+        "meaning_hi": "जहाँ-जहाँ विक्षिप्त मन विचलित होता है, उसे वापस लाना चाहिए।"
+      }
+    ]
+  },
+  {
+    "id": "Q126",
+    "category": "self_realization",
+    "keywords": [
+      "self-realization",
+      "soul",
+      "moksha",
+      "आत्मबोध",
+      "मोक्ष"
+    ],
+    "question_en": "What is the Gita's view on the eternal soul?",
+    "question_hi": "गीता में शाश्वत आत्मा के प्रति क्या दृष्टिकोण है?",
+    "answer_en": "The soul is eternal, unchanging, and beyond physical existence.",
+    "answer_hi": "आत्मा शाश्वत, अपरिवर्तनीय और भौतिक अस्तित्व से परे है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "20",
+        "shlok": "न जायते म्रियते वा कदाचि।",
+        "meaning_en": "The soul is neither born nor dies.",
+        "meaning_hi": "आत्मा न जन्मती है न मरती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q127",
+    "category": "equanimity",
+    "keywords": [
+      "equanimity",
+      "balance",
+      "peace",
+      "समता",
+      "शांति"
+    ],
+    "question_en": "How can equanimity be developed?",
+    "question_hi": "समता कैसे विकसित की जा सकती है?",
+    "answer_en": "Through practice of detachment, meditation, and steady mindfulness.",
+    "answer_hi": "वैराग्य, ध्यान, और सतत ध्यान से।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "48",
+        "shlok": "योगस्थः कुरु कर्माणि संगं त्यक्त्वा धनंजय।",
+        "meaning_en": "Equipped with yoga, perform actions without attachment.",
+        "meaning_hi": "योगयुक्त होकर बिना लगाव के कर्म करो।"
+      }
+    ]
+  },
+  {
+    "id": "Q128",
+    "category": "detachment",
+    "keywords": [
+      "detachment",
+      "vairagya",
+      "freedom",
+      "वैराग्य",
+      "मुक्ति"
+    ],
+    "question_en": "What are the benefits of detachment?",
+    "question_hi": "वैराग्य के लाभ क्या हैं?",
+    "answer_en": "Detachment frees one from suffering and stabilizes the mind.",
+    "answer_hi": "वैराग्य व्यक्ति को दुःख से मुक्त करता है और मन को स्थिर करता है।",
+    "shlokas": [
+      {
+        "chapter": "2",
+        "verse": "71",
+        "shlok": "ज्ञानी न चास्य प्रज verja संशयस्य कर्ता।",
+        "meaning_en": "The wise are free from doubts and attachments.",
+        "meaning_hi": "ज्ञानी संशय और आसक्ति से मुक्त होते हैं।"
+      }
+    ]
+  },
+  {
+    "id": "Q129",
+    "category": "surrender",
+    "keywords": [
+      "surrender",
+      "faith",
+      "devotion",
+      "समर्पण",
+      "भक्ति"
+    ],
+    "question_en": "How does surrender transform the seeker?",
+    "question_hi": "समर्पण साधक को कैसे परिवर्तित करता है?",
+    "answer_en": "Surrender dissolves ego, brings peace, and unites one with the divine.",
+    "answer_hi": "समर्पण अहंकार को समाप्त करता है, शांति लाता है, और दिव्य से जोड़ता है।",
+    "shlokas": [
+      {
+        "chapter": "18",
+        "verse": "66",
+        "shlok": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+        "meaning_en": "Give up all duties and surrender solely to Me.",
+        "meaning_hi": "सभी धर्मों को त्याग कर केवल मुझमें शरण लो।"
+      }
+    ]
+  },
+  {
+    "id": "Q130",
+    "category": "faith",
+    "keywords": [
+      "faith",
+      "belief",
+      "trust",
+      "श्रद्धा",
+      "आस्था"
+    ],
+    "question_en": "What is the foundation of spiritual faith according to the Gita?",
+    "question_hi": "गीता के अनुसार आध्यात्मिक श्रद्धा की नींव क्या है?",
+    "answer_en": "Faith is rooted in one's qualities and convictions, guiding their path.",
+    "answer_hi": "श्रद्धा व्यक्ति के गुण और विश्वासों में निहित है, जो उसकी राह को निर्देशित करती है।",
+    "shlokas": [
+      {
+        "chapter": "17",
+        "verse": "3",
+        "shlok": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।",
+        "meaning_en": "Faith corresponds to the nature of the individual.",
+        "meaning_hi": "श्रद्धा व्यक्ति की प्रकृति के अनुरूप होती है।"
+      }
+    ]
+  },
+  {
+    "id": "Q131",
+    "category": "service",
+    "keywords": [
+      "service",
+      "help",
+      "selflessness",
+      "सेवा",
+      "परहित"
+    ],
+    "question_en": "How is selfless service regarded in the Gita?",
+    "question_hi": "गीता में निःस्वार्थ सेवा को कैसे माना गया है?",
+    "answer_en": "It is a pathway to purify the heart and progress spiritually.",
+    "answer_hi": "यह हृदय को शुद्ध करने और आध्यात्मिक प्रगति पाने का मार्ग है।",
+    "shlokas": [
+      {
+        "chapter": "3",
+        "verse": "30",
+        "shlok": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+        "meaning_en": "Surrender all actions to Me with a focused mind.",
+        "meaning_hi": "अपने सभी कर्मों को मुझमें समर्पित कर और मन को केंद्रित रख।"
+      }
+    ]
+  },
+  {
+    "id": "Q132",
+    "category": "peace",
+    "keywords": [
+      "peace",
+      "serenity",
+      "calm",
+      "शांति",
+      "सुख"
+    ],
+    "question_en": "What practice brings lasting peace?"
+  }
+]
