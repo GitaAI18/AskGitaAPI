@@ -5,7 +5,8 @@ import json
 from sentence_transformers import SentenceTransformer, util
 
 # Load model and data
-model = SentenceTransformer("paraphrase-MiniLM-L3-v2")with open("combined_questions.json", "r", encoding="utf-8") as f:
+model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
+with open("combined_questions.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 app = FastAPI()
